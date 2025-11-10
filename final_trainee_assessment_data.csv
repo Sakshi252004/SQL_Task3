@@ -1,0 +1,1001 @@
+trainee_id,final_score,selection_status,department,assigned_course
+TRN001,2.51,Rejected,Management,Project Management Professional Track
+TRN002,3.44,Waitlisted,IT,Cloud Platform Engineer Track
+TRN003,2.69,Rejected,Finance,Finance & Accounting Analyst Training
+TRN004,3.94,Waitlisted,IT,Full Stack Developer Bootcamp
+TRN005,4.07,Selected,General,General Skill Development
+TRN006,4.87,Selected,General,General Skill Development
+TRN007,3.5,Waitlisted,IT,General Skill Development
+TRN008,3.03,Waitlisted,General,General Skill Development
+TRN009,4.67,Selected,General,General Skill Development
+TRN010,3.5,Waitlisted,General,General Skill Development
+TRN011,2.5,Rejected,General,General Skill Development
+TRN012,4.04,Selected,Data Science,General Skill Development
+TRN013,4.43,Selected,General,General Skill Development
+TRN014,3.48,Waitlisted,Operations,Customer Experience Specialist Program
+TRN015,4.12,Selected,General,General Skill Development
+TRN016,4.83,Selected,General,General Skill Development
+TRN017,2.38,Rejected,General,General Skill Development
+TRN018,4.05,Selected,General,General Skill Development
+TRN019,4.62,Selected,General,General Skill Development
+TRN020,3.02,Waitlisted,General,General Skill Development
+TRN021,4.5,Selected,IT,DevOps Engineering Certification
+TRN022,3.51,Waitlisted,General,General Skill Development
+TRN023,1.87,Rejected,General,General Skill Development
+TRN024,4.15,Selected,General,General Skill Development
+TRN025,4.2,Selected,Management,General Skill Development
+TRN026,4.82,Selected,Finance,Finance & Accounting Analyst Training
+TRN027,3.54,Waitlisted,Data Science,General Skill Development
+TRN028,3.15,Waitlisted,Operations,Customer Experience Specialist Program
+TRN029,4.45,Selected,IT,Cloud Platform Engineer Track
+TRN030,3.35,Waitlisted,General,General Skill Development
+TRN031,2.66,Rejected,General,General Skill Development
+TRN032,3.92,Waitlisted,General,General Skill Development
+TRN033,4.59,Selected,Healthcare,Medical Billing Specialist Program
+TRN034,3.58,Waitlisted,Data Science,General Skill Development
+TRN035,4.33,Selected,General,General Skill Development
+TRN036,4.99,Selected,General,General Skill Development
+TRN037,1.83,Rejected,General,General Skill Development
+TRN038,3.82,Waitlisted,General,General Skill Development
+TRN039,4.59,Selected,Data Science,General Skill Development
+TRN040,3.09,Waitlisted,Data Science,General Skill Development
+TRN041,4.43,Selected,General,General Skill Development
+TRN042,3.5,Waitlisted,General,General Skill Development
+TRN043,1.91,Rejected,General,General Skill Development
+TRN044,3.94,Waitlisted,IT,DevOps Engineering Certification
+TRN045,4.29,Selected,General,General Skill Development
+TRN046,4.97,Selected,IT,Cybersecurity Operations Program
+TRN047,3.37,Waitlisted,General,General Skill Development
+TRN048,3.02,Waitlisted,Operations,Team Collaboration Professional
+TRN049,4.64,Selected,Data Science,General Skill Development
+TRN050,3.6,Waitlisted,General,General Skill Development
+TRN051,2.34,Rejected,General,General Skill Development
+TRN052,3.82,Waitlisted,General,General Skill Development
+TRN053,4.48,Selected,General,General Skill Development
+TRN054,3.44,Waitlisted,Management,General Skill Development
+TRN055,4.25,Selected,General,General Skill Development
+TRN056,4.96,Selected,Data Science,General Skill Development
+TRN057,2.62,Rejected,General,General Skill Development
+TRN058,4.01,Selected,Finance,General Skill Development
+TRN059,4.47,Selected,Data Science,General Skill Development
+TRN060,3.11,Waitlisted,General,General Skill Development
+TRN061,4.69,Selected,General,General Skill Development
+TRN062,3.64,Waitlisted,General,General Skill Development
+TRN063,2.76,Rejected,General,General Skill Development
+TRN064,4.14,Selected,General,General Skill Development
+TRN065,4.27,Selected,General,General Skill Development
+TRN066,5.0,Selected,General,General Skill Development
+TRN067,3.46,Waitlisted,General,General Skill Development
+TRN068,3.06,Waitlisted,Management,General Skill Development
+TRN069,4.62,Selected,General,General Skill Development
+TRN070,3.39,Waitlisted,General,General Skill Development
+TRN071,2.72,Rejected,IT,Cloud Platform Engineer Track
+TRN072,3.85,Waitlisted,Healthcare,Medical Billing Specialist Program
+TRN073,4.65,Selected,General,General Skill Development
+TRN074,3.56,Waitlisted,General,General Skill Development
+TRN075,4.37,Selected,General,General Skill Development
+TRN076,4.91,Selected,General,General Skill Development
+TRN077,2.72,Rejected,General,General Skill Development
+TRN078,4.12,Selected,General,General Skill Development
+TRN079,4.64,Selected,Data Science,General Skill Development
+TRN080,3.12,Waitlisted,General,General Skill Development
+TRN081,4.52,Selected,General,General Skill Development
+TRN082,3.61,Waitlisted,General,General Skill Development
+TRN083,2.45,Rejected,General,General Skill Development
+TRN084,4.06,Selected,General,General Skill Development
+TRN085,4.16,Selected,Data Science,General Skill Development
+TRN086,4.91,Selected,General,General Skill Development
+TRN087,3.48,Waitlisted,General,General Skill Development
+TRN088,3.19,Waitlisted,General,General Skill Development
+TRN089,4.69,Selected,General,General Skill Development
+TRN090,3.49,Waitlisted,General,General Skill Development
+TRN091,2.18,Rejected,General,General Skill Development
+TRN092,4.1,Selected,General,General Skill Development
+TRN093,4.6,Selected,General,General Skill Development
+TRN094,3.34,Waitlisted,General,General Skill Development
+TRN095,4.23,Selected,General,General Skill Development
+TRN096,4.98,Selected,IT,Cloud Platform Engineer Track
+TRN097,2.8,Rejected,General,General Skill Development
+TRN098,4.09,Selected,IT,General Skill Development
+TRN099,4.46,Selected,General,General Skill Development
+TRN100,3.11,Waitlisted,General,General Skill Development
+TRN101,4.61,Selected,General,General Skill Development
+TRN102,3.47,Waitlisted,General,General Skill Development
+TRN103,2.53,Rejected,General,General Skill Development
+TRN104,3.93,Waitlisted,IT,General Skill Development
+TRN105,4.19,Selected,Healthcare,General Skill Development
+TRN106,4.95,Selected,General,General Skill Development
+TRN107,3.55,Waitlisted,Finance,General Skill Development
+TRN108,3.16,Waitlisted,General,General Skill Development
+TRN109,4.54,Selected,General,General Skill Development
+TRN110,3.57,Waitlisted,General,General Skill Development
+TRN111,2.66,Rejected,Data Science,General Skill Development
+TRN112,3.93,Waitlisted,IT,General Skill Development
+TRN113,4.45,Selected,General,General Skill Development
+TRN114,3.43,Waitlisted,General,General Skill Development
+TRN115,4.27,Selected,Data Science,General Skill Development
+TRN116,4.98,Selected,IT,Cloud Platform Engineer Track
+TRN117,2.76,Rejected,General,General Skill Development
+TRN118,4.11,Selected,Management,Project Management Professional Track
+TRN119,4.61,Selected,General,General Skill Development
+TRN120,3.08,Waitlisted,Management,General Skill Development
+TRN121,4.66,Selected,General,General Skill Development
+TRN122,3.64,Waitlisted,General,General Skill Development
+TRN123,2.5,Rejected,Data Science,General Skill Development
+TRN124,3.93,Waitlisted,General,General Skill Development
+TRN125,4.07,Selected,Management,General Skill Development
+TRN126,4.95,Selected,General,General Skill Development
+TRN127,3.34,Waitlisted,Data Science,General Skill Development
+TRN128,3.04,Waitlisted,Management,General Skill Development
+TRN129,4.68,Selected,IT,Full Stack Developer Bootcamp
+TRN130,3.37,Waitlisted,General,General Skill Development
+TRN131,2.0,Rejected,General,General Skill Development
+TRN132,3.94,Waitlisted,Management,Project Management Professional Track
+TRN133,4.69,Selected,General,General Skill Development
+TRN134,3.61,Waitlisted,General,General Skill Development
+TRN135,4.33,Selected,Management,General Skill Development
+TRN136,4.98,Selected,General,General Skill Development
+TRN137,2.39,Rejected,General,General Skill Development
+TRN138,3.93,Waitlisted,General,General Skill Development
+TRN139,4.69,Selected,Data Science,General Skill Development
+TRN140,3.18,Waitlisted,General,General Skill Development
+TRN141,4.7,Selected,IT,Cloud Platform Engineer Track
+TRN142,3.39,Waitlisted,General,General Skill Development
+TRN143,2.22,Rejected,General,General Skill Development
+TRN144,4.13,Selected,General,General Skill Development
+TRN145,4.17,Selected,General,General Skill Development
+TRN146,4.8,Selected,IT,Information Architecture Basics
+TRN147,3.35,Waitlisted,General,General Skill Development
+TRN148,3.12,Waitlisted,General,General Skill Development
+TRN149,4.45,Selected,General,General Skill Development
+TRN150,3.34,Waitlisted,General,General Skill Development
+TRN151,2.15,Rejected,General,General Skill Development
+TRN152,3.97,Waitlisted,General,General Skill Development
+TRN153,4.61,Selected,General,General Skill Development
+TRN154,3.46,Waitlisted,Finance,Finance & Accounting Analyst Training
+TRN155,4.19,Selected,General,General Skill Development
+TRN156,4.93,Selected,Management,General Skill Development
+TRN157,2.18,Rejected,General,General Skill Development
+TRN158,4.04,Selected,General,General Skill Development
+TRN159,4.55,Selected,General,General Skill Development
+TRN160,3.13,Waitlisted,Data Science,General Skill Development
+TRN161,4.56,Selected,IT,Full Stack Developer Bootcamp
+TRN162,3.44,Waitlisted,Data Science,General Skill Development
+TRN163,1.99,Rejected,General,General Skill Development
+TRN164,4.06,Selected,General,General Skill Development
+TRN165,4.29,Selected,General,General Skill Development
+TRN166,4.93,Selected,Data Science,General Skill Development
+TRN167,3.53,Waitlisted,IT,Cybersecurity Operations Program
+TRN168,3.03,Waitlisted,General,General Skill Development
+TRN169,4.57,Selected,General,General Skill Development
+TRN170,3.57,Waitlisted,General,General Skill Development
+TRN171,2.4,Rejected,IT,General Skill Development
+TRN172,4.14,Selected,Data Science,General Skill Development
+TRN173,4.5,Selected,General,General Skill Development
+TRN174,3.57,Waitlisted,Data Science,General Skill Development
+TRN175,4.17,Selected,General,General Skill Development
+TRN176,4.95,Selected,General,General Skill Development
+TRN177,2.6,Rejected,General,General Skill Development
+TRN178,3.95,Waitlisted,General,General Skill Development
+TRN179,4.66,Selected,General,General Skill Development
+TRN180,3.12,Waitlisted,General,General Skill Development
+TRN181,4.56,Selected,General,General Skill Development
+TRN182,3.65,Waitlisted,Management,Project Management Professional Track
+TRN183,2.19,Rejected,General,General Skill Development
+TRN184,3.81,Waitlisted,General,General Skill Development
+TRN185,4.0,Selected,IT,Cloud Platform Engineer Track
+TRN186,4.9,Selected,Finance,Finance & Accounting Analyst Training
+TRN187,3.5,Waitlisted,Data Science,General Skill Development
+TRN188,3.07,Waitlisted,General,General Skill Development
+TRN189,4.58,Selected,General,General Skill Development
+TRN190,3.59,Waitlisted,Operations,General Skill Development
+TRN191,1.93,Rejected,General,General Skill Development
+TRN192,3.97,Waitlisted,IT,Full Stack Developer Bootcamp
+TRN193,4.47,Selected,Engineering,Hydraulic Systems Engineering Track
+TRN194,3.44,Waitlisted,Healthcare,Medical Billing Specialist Program
+TRN195,4.14,Selected,Operations,Team Collaboration Professional
+TRN196,4.98,Selected,IT,Cloud Platform Engineer Track
+TRN197,1.82,Rejected,IT,Information Architecture Basics
+TRN198,4.19,Selected,IT,Cybersecurity Operations Program
+TRN199,4.5,Selected,IT,DevOps Engineering Certification
+TRN200,3.06,Waitlisted,Operations,Team Collaboration Professional
+TRN201,4.12,Selected,General,General Skill Development
+TRN202,4.18,Selected,IT,General Skill Development
+TRN203,2.25,Rejected,Healthcare,Medical Billing Specialist Program
+TRN204,2.73,Rejected,General,General Skill Development
+TRN205,3.45,Waitlisted,Healthcare,Medical Billing Specialist Program
+TRN206,2.22,Rejected,General,General Skill Development
+TRN207,4.23,Selected,General,General Skill Development
+TRN208,2.42,Rejected,Management,Project Management Professional Track
+TRN209,4.41,Selected,General,General Skill Development
+TRN210,3.32,Waitlisted,General,General Skill Development
+TRN211,2.7,Rejected,Operations,Customer Experience Specialist Program
+TRN212,4.91,Selected,Engineering,General Skill Development
+TRN213,2.46,Rejected,General,General Skill Development
+TRN214,4.61,Selected,Management,Project Management Professional Track
+TRN215,3.14,Waitlisted,General,General Skill Development
+TRN216,4.53,Selected,IT,Cybersecurity Operations Program
+TRN217,2.26,Rejected,Engineering,General Skill Development
+TRN218,4.1,Selected,General,General Skill Development
+TRN219,3.54,Waitlisted,Operations,Customer Experience Specialist Program
+TRN220,4.86,Selected,Management,General Skill Development
+TRN221,4.98,Selected,Data Science,General Skill Development
+TRN222,1.99,Rejected,IT,General Skill Development
+TRN223,4.02,Selected,General,General Skill Development
+TRN224,3.46,Waitlisted,General,General Skill Development
+TRN225,1.96,Rejected,IT,Cybersecurity Operations Program
+TRN226,4.21,Selected,General,General Skill Development
+TRN227,3.08,Waitlisted,IT,Cloud Platform Engineer Track
+TRN228,4.99,Selected,General,General Skill Development
+TRN229,4.45,Selected,Data Science,General Skill Development
+TRN230,2.32,Rejected,Engineering,General Skill Development
+TRN231,2.3,Rejected,General,General Skill Development
+TRN232,4.89,Selected,Data Science,General Skill Development
+TRN233,3.02,Waitlisted,General,General Skill Development
+TRN234,4.82,Selected,General,General Skill Development
+TRN235,4.92,Selected,IT,Cybersecurity Operations Program
+TRN236,2.0,Rejected,Management,General Skill Development
+TRN237,4.8,Selected,IT,General Skill Development
+TRN238,3.07,Waitlisted,IT,General Skill Development
+TRN239,4.99,Selected,Operations,Customer Experience Specialist Program
+TRN240,2.19,Rejected,General,General Skill Development
+TRN241,4.54,Selected,General,General Skill Development
+TRN242,2.3,Rejected,General,General Skill Development
+TRN243,4.05,Selected,IT,Cybersecurity Operations Program
+TRN244,2.29,Rejected,IT,General Skill Development
+TRN245,2.22,Rejected,Management,General Skill Development
+TRN246,3.19,Waitlisted,IT,General Skill Development
+TRN247,2.15,Rejected,Data Science,General Skill Development
+TRN248,3.18,Waitlisted,General,General Skill Development
+TRN249,4.06,Selected,General,General Skill Development
+TRN250,2.65,Rejected,Data Science,General Skill Development
+TRN251,4.22,Selected,Healthcare,Medical Billing Specialist Program
+TRN252,4.85,Selected,IT,General Skill Development
+TRN253,2.53,Rejected,General,General Skill Development
+TRN254,3.91,Waitlisted,General,General Skill Development
+TRN255,2.03,Rejected,Data Science,General Skill Development
+TRN256,3.31,Waitlisted,Data Science,General Skill Development
+TRN257,2.02,Rejected,Engineering,General Skill Development
+TRN258,2.03,Rejected,General,General Skill Development
+TRN259,4.67,Selected,Operations,Customer Experience Specialist Program
+TRN260,1.81,Rejected,General,General Skill Development
+TRN261,2.31,Rejected,IT,General Skill Development
+TRN262,2.58,Rejected,General,General Skill Development
+TRN263,2.22,Rejected,IT,General Skill Development
+TRN264,1.87,Rejected,IT,Cloud Platform Engineer Track
+TRN265,1.99,Rejected,General,General Skill Development
+TRN266,2.43,Rejected,General,General Skill Development
+TRN267,4.67,Selected,General,General Skill Development
+TRN268,4.06,Selected,General,General Skill Development
+TRN269,2.51,Rejected,Engineering,General Skill Development
+TRN270,2.14,Rejected,IT,Cybersecurity Operations Program
+TRN271,2.01,Rejected,General,General Skill Development
+TRN272,3.63,Waitlisted,IT,General Skill Development
+TRN273,4.03,Selected,IT,General Skill Development
+TRN274,4.9,Selected,IT,Cloud Platform Engineer Track
+TRN275,1.96,Rejected,General,General Skill Development
+TRN276,3.91,Waitlisted,General,General Skill Development
+TRN277,1.97,Rejected,Data Science,General Skill Development
+TRN278,4.84,Selected,General,General Skill Development
+TRN279,3.59,Waitlisted,IT,General Skill Development
+TRN280,4.54,Selected,General,General Skill Development
+TRN281,4.86,Selected,Operations,Team Collaboration Professional
+TRN282,2.62,Rejected,General,General Skill Development
+TRN283,4.29,Selected,IT,General Skill Development
+TRN284,2.6,Rejected,Management,Project Management Professional Track
+TRN285,3.85,Waitlisted,IT,Cybersecurity Operations Program
+TRN286,1.89,Rejected,General,General Skill Development
+TRN287,4.98,Selected,Data Science,General Skill Development
+TRN288,4.87,Selected,IT,General Skill Development
+TRN289,2.41,Rejected,Operations,Customer Experience Specialist Program
+TRN290,3.54,Waitlisted,IT,Cybersecurity Operations Program
+TRN291,4.08,Selected,Operations,Team Collaboration Professional
+TRN292,2.58,Rejected,Management,General Skill Development
+TRN293,2.72,Rejected,Operations,Customer Experience Specialist Program
+TRN294,3.15,Waitlisted,Engineering,General Skill Development
+TRN295,3.14,Waitlisted,General,General Skill Development
+TRN296,3.14,Waitlisted,Engineering,General Skill Development
+TRN297,4.18,Selected,General,General Skill Development
+TRN298,3.02,Waitlisted,General,General Skill Development
+TRN299,1.82,Rejected,Data Science,General Skill Development
+TRN300,3.15,Waitlisted,IT,Cloud Platform Engineer Track
+TRN301,4.14,Selected,Management,Project Management Professional Track
+TRN302,2.5,Rejected,Engineering,General Skill Development
+TRN303,3.34,Waitlisted,General,General Skill Development
+TRN304,1.95,Rejected,Data Science,General Skill Development
+TRN305,2.5,Rejected,IT,General Skill Development
+TRN306,2.11,Rejected,Data Science,General Skill Development
+TRN307,4.23,Selected,General,General Skill Development
+TRN308,2.21,Rejected,Operations,Team Collaboration Professional
+TRN309,2.2,Rejected,Engineering,General Skill Development
+TRN310,4.93,Selected,Operations,Customer Experience Specialist Program
+TRN311,3.19,Waitlisted,Healthcare,Medical Billing Specialist Program
+TRN312,2.6,Rejected,Engineering,General Skill Development
+TRN313,2.47,Rejected,General,General Skill Development
+TRN314,3.32,Waitlisted,Operations,Team Collaboration Professional
+TRN315,4.25,Selected,General,General Skill Development
+TRN316,3.02,Waitlisted,IT,General Skill Development
+TRN317,4.46,Selected,General,General Skill Development
+TRN318,3.08,Waitlisted,General,General Skill Development
+TRN319,2.18,Rejected,Data Science,General Skill Development
+TRN320,2.08,Rejected,IT,Cloud Platform Engineer Track
+TRN321,4.3,Selected,General,General Skill Development
+TRN322,3.44,Waitlisted,Management,General Skill Development
+TRN323,3.19,Waitlisted,Management,General Skill Development
+TRN324,2.76,Rejected,IT,General Skill Development
+TRN325,2.78,Rejected,General,General Skill Development
+TRN326,4.26,Selected,IT,General Skill Development
+TRN327,4.06,Selected,IT,Cybersecurity Operations Program
+TRN328,4.1,Selected,General,General Skill Development
+TRN329,2.04,Rejected,Engineering,General Skill Development
+TRN330,4.95,Selected,General,General Skill Development
+TRN331,2.06,Rejected,Data Science,General Skill Development
+TRN332,4.54,Selected,General,General Skill Development
+TRN333,4.09,Selected,Management,Project Management Professional Track
+TRN334,4.03,Selected,General,General Skill Development
+TRN335,3.03,Waitlisted,IT,Cloud Platform Engineer Track
+TRN336,2.1,Rejected,IT,General Skill Development
+TRN337,4.98,Selected,IT,Cybersecurity Operations Program
+TRN338,4.91,Selected,IT,Cybersecurity Operations Program
+TRN339,2.7,Rejected,General,General Skill Development
+TRN340,4.61,Selected,General,General Skill Development
+TRN341,2.37,Rejected,General,General Skill Development
+TRN342,1.85,Rejected,Healthcare,Medical Billing Specialist Program
+TRN343,1.98,Rejected,IT,General Skill Development
+TRN344,4.8,Selected,Healthcare,Medical Billing Specialist Program
+TRN345,2.11,Rejected,IT,Cloud Platform Engineer Track
+TRN346,4.95,Selected,IT,General Skill Development
+TRN347,2.15,Rejected,Operations,Customer Experience Specialist Program
+TRN348,4.83,Selected,Engineering,General Skill Development
+TRN349,4.6,Selected,General,General Skill Development
+TRN350,1.88,Rejected,Healthcare,Medical Billing Specialist Program
+TRN351,4.95,Selected,Data Science,General Skill Development
+TRN352,2.33,Rejected,IT,Cloud Platform Engineer Track
+TRN353,4.1,Selected,IT,Cybersecurity Operations Program
+TRN354,2.65,Rejected,Healthcare,Medical Billing Specialist Program
+TRN355,4.88,Selected,Healthcare,Medical Billing Specialist Program
+TRN356,4.46,Selected,General,General Skill Development
+TRN357,2.76,Rejected,General,General Skill Development
+TRN358,3.08,Waitlisted,Data Science,General Skill Development
+TRN359,4.68,Selected,Operations,Team Collaboration Professional
+TRN360,4.24,Selected,General,General Skill Development
+TRN361,3.17,Waitlisted,General,General Skill Development
+TRN362,2.51,Rejected,Healthcare,Medical Billing Specialist Program
+TRN363,2.11,Rejected,General,General Skill Development
+TRN364,1.99,Rejected,IT,General Skill Development
+TRN365,3.0,Waitlisted,Data Science,General Skill Development
+TRN366,3.82,Waitlisted,General,General Skill Development
+TRN367,4.41,Selected,General,General Skill Development
+TRN368,4.84,Selected,IT,General Skill Development
+TRN369,3.05,Waitlisted,Healthcare,Medical Billing Specialist Program
+TRN370,4.08,Selected,IT,General Skill Development
+TRN371,4.9,Selected,IT,Cloud Platform Engineer Track
+TRN372,4.96,Selected,Operations,Team Collaboration Professional
+TRN373,2.78,Rejected,General,General Skill Development
+TRN374,3.58,Waitlisted,General,General Skill Development
+TRN375,1.89,Rejected,Engineering,General Skill Development
+TRN376,2.46,Rejected,Operations,Customer Experience Specialist Program
+TRN377,4.06,Selected,IT,General Skill Development
+TRN378,3.11,Waitlisted,IT,Cybersecurity Operations Program
+TRN379,4.2,Selected,Management,Project Management Professional Track
+TRN380,3.34,Waitlisted,Data Science,General Skill Development
+TRN381,4.83,Selected,General,General Skill Development
+TRN382,4.84,Selected,Healthcare,Medical Billing Specialist Program
+TRN383,2.15,Rejected,Data Science,General Skill Development
+TRN384,2.78,Rejected,General,General Skill Development
+TRN385,4.02,Selected,Data Science,General Skill Development
+TRN386,4.65,Selected,General,General Skill Development
+TRN387,2.37,Rejected,General,General Skill Development
+TRN388,2.19,Rejected,Management,General Skill Development
+TRN389,4.94,Selected,Data Science,General Skill Development
+TRN390,2.05,Rejected,IT,Cybersecurity Operations Program
+TRN391,3.02,Waitlisted,Operations,Team Collaboration Professional
+TRN392,3.6,Waitlisted,General,General Skill Development
+TRN393,2.33,Rejected,IT,Cloud Platform Engineer Track
+TRN394,2.66,Rejected,Management,Project Management Professional Track
+TRN395,2.69,Rejected,IT,Cloud Platform Engineer Track
+TRN396,4.63,Selected,Operations,Team Collaboration Professional
+TRN397,3.11,Waitlisted,General,General Skill Development
+TRN398,4.94,Selected,Data Science,General Skill Development
+TRN399,2.22,Rejected,Operations,Team Collaboration Professional
+TRN400,1.94,Rejected,General,General Skill Development
+TRN401,4.04,Selected,General,General Skill Development
+TRN402,2.31,Rejected,Management,Project Management Professional Track
+TRN403,3.12,Waitlisted,IT,Cloud Platform Engineer Track
+TRN404,4.2,Selected,Operations,Team Collaboration Professional
+TRN405,3.15,Waitlisted,General,General Skill Development
+TRN406,3.38,Waitlisted,Operations,Customer Experience Specialist Program
+TRN407,3.15,Waitlisted,IT,General Skill Development
+TRN408,2.05,Rejected,Data Science,General Skill Development
+TRN409,4.1,Selected,IT,General Skill Development
+TRN410,3.04,Waitlisted,IT,Cybersecurity Operations Program
+TRN411,2.26,Rejected,General,General Skill Development
+TRN412,4.07,Selected,General,General Skill Development
+TRN413,3.64,Waitlisted,General,General Skill Development
+TRN414,4.11,Selected,General,General Skill Development
+TRN415,2.38,Rejected,Data Science,General Skill Development
+TRN416,4.92,Selected,General,General Skill Development
+TRN417,4.18,Selected,Data Science,General Skill Development
+TRN418,4.64,Selected,Healthcare,Medical Billing Specialist Program
+TRN419,4.3,Selected,General,General Skill Development
+TRN420,2.39,Rejected,Data Science,General Skill Development
+TRN421,3.04,Waitlisted,IT,General Skill Development
+TRN422,3.04,Waitlisted,General,General Skill Development
+TRN423,4.65,Selected,IT,Cloud Platform Engineer Track
+TRN424,1.87,Rejected,General,General Skill Development
+TRN425,4.1,Selected,General,General Skill Development
+TRN426,3.62,Waitlisted,Engineering,General Skill Development
+TRN427,3.97,Waitlisted,General,General Skill Development
+TRN428,2.44,Rejected,General,General Skill Development
+TRN429,1.91,Rejected,Data Science,General Skill Development
+TRN430,4.96,Selected,Management,General Skill Development
+TRN431,2.42,Rejected,Data Science,General Skill Development
+TRN432,2.7,Rejected,General,General Skill Development
+TRN433,3.87,Waitlisted,IT,Cybersecurity Operations Program
+TRN434,3.06,Waitlisted,General,General Skill Development
+TRN435,4.87,Selected,General,General Skill Development
+TRN436,1.92,Rejected,Data Science,General Skill Development
+TRN437,2.8,Rejected,IT,Cybersecurity Operations Program
+TRN438,2.73,Rejected,General,General Skill Development
+TRN439,2.31,Rejected,Data Science,General Skill Development
+TRN440,2.16,Rejected,General,General Skill Development
+TRN441,2.28,Rejected,Data Science,General Skill Development
+TRN442,2.48,Rejected,Data Science,General Skill Development
+TRN443,4.27,Selected,General,General Skill Development
+TRN444,4.1,Selected,Data Science,General Skill Development
+TRN445,3.83,Waitlisted,IT,Cybersecurity Operations Program
+TRN446,4.44,Selected,IT,General Skill Development
+TRN447,4.88,Selected,General,General Skill Development
+TRN448,4.88,Selected,Engineering,General Skill Development
+TRN449,2.72,Rejected,IT,General Skill Development
+TRN450,4.58,Selected,IT,Cybersecurity Operations Program
+TRN451,3.64,Waitlisted,Data Science,General Skill Development
+TRN452,3.6,Waitlisted,General,General Skill Development
+TRN453,4.02,Selected,Management,Project Management Professional Track
+TRN454,2.6,Rejected,IT,General Skill Development
+TRN455,4.17,Selected,Engineering,General Skill Development
+TRN456,2.08,Rejected,Data Science,General Skill Development
+TRN457,2.65,Rejected,General,General Skill Development
+TRN458,3.37,Waitlisted,IT,Cloud Platform Engineer Track
+TRN459,4.03,Selected,Management,General Skill Development
+TRN460,2.55,Rejected,General,General Skill Development
+TRN461,4.02,Selected,Data Science,General Skill Development
+TRN462,4.9,Selected,Management,General Skill Development
+TRN463,4.67,Selected,IT,Cloud Platform Engineer Track
+TRN464,4.12,Selected,IT,General Skill Development
+TRN465,4.95,Selected,IT,Cloud Platform Engineer Track
+TRN466,3.84,Waitlisted,Data Science,General Skill Development
+TRN467,3.68,Waitlisted,Data Science,General Skill Development
+TRN468,2.33,Rejected,IT,Cybersecurity Operations Program
+TRN469,4.45,Selected,IT,Cloud Platform Engineer Track
+TRN470,2.11,Rejected,Data Science,General Skill Development
+TRN471,2.42,Rejected,General,General Skill Development
+TRN472,2.28,Rejected,General,General Skill Development
+TRN473,4.01,Selected,Operations,Customer Experience Specialist Program
+TRN474,3.16,Waitlisted,General,General Skill Development
+TRN475,4.9,Selected,Engineering,General Skill Development
+TRN476,1.9,Rejected,Data Science,General Skill Development
+TRN477,4.12,Selected,General,General Skill Development
+TRN478,3.41,Waitlisted,Management,General Skill Development
+TRN479,3.17,Waitlisted,Operations,Customer Experience Specialist Program
+TRN480,3.88,Waitlisted,IT,Cloud Platform Engineer Track
+TRN481,2.37,Rejected,IT,General Skill Development
+TRN482,4.84,Selected,Healthcare,Medical Billing Specialist Program
+TRN483,4.91,Selected,IT,General Skill Development
+TRN484,3.18,Waitlisted,General,General Skill Development
+TRN485,2.68,Rejected,General,General Skill Development
+TRN486,1.91,Rejected,General,General Skill Development
+TRN487,1.81,Rejected,General,General Skill Development
+TRN488,2.52,Rejected,General,General Skill Development
+TRN489,4.13,Selected,Healthcare,Medical Billing Specialist Program
+TRN490,1.98,Rejected,Engineering,General Skill Development
+TRN491,3.17,Waitlisted,IT,Cybersecurity Operations Program
+TRN492,2.68,Rejected,General,General Skill Development
+TRN493,4.06,Selected,General,General Skill Development
+TRN494,3.98,Waitlisted,Operations,Team Collaboration Professional
+TRN495,4.56,Selected,Engineering,General Skill Development
+TRN496,2.14,Rejected,Operations,Customer Experience Specialist Program
+TRN497,4.15,Selected,Engineering,General Skill Development
+TRN498,2.29,Rejected,General,General Skill Development
+TRN499,2.18,Rejected,IT,General Skill Development
+TRN500,3.04,Waitlisted,General,General Skill Development
+TRN501,4.9,Selected,General,General Skill Development
+TRN502,3.82,Waitlisted,Management,General Skill Development
+TRN503,2.09,Rejected,General,General Skill Development
+TRN504,2.21,Rejected,General,General Skill Development
+TRN505,2.1,Rejected,Data Science,General Skill Development
+TRN506,2.21,Rejected,General,General Skill Development
+TRN507,2.77,Rejected,General,General Skill Development
+TRN508,3.08,Waitlisted,Operations,Customer Experience Specialist Program
+TRN509,4.54,Selected,Data Science,General Skill Development
+TRN510,3.57,Waitlisted,Data Science,General Skill Development
+TRN511,3.04,Waitlisted,Management,General Skill Development
+TRN512,4.95,Selected,General,General Skill Development
+TRN513,4.38,Selected,General,General Skill Development
+TRN514,3.39,Waitlisted,General,General Skill Development
+TRN515,2.53,Rejected,General,General Skill Development
+TRN516,4.61,Selected,General,General Skill Development
+TRN517,2.73,Rejected,General,General Skill Development
+TRN518,4.2,Selected,Engineering,General Skill Development
+TRN519,2.53,Rejected,General,General Skill Development
+TRN520,1.81,Rejected,IT,Cloud Platform Engineer Track
+TRN521,3.9,Waitlisted,General,General Skill Development
+TRN522,4.2,Selected,Healthcare,Medical Billing Specialist Program
+TRN523,2.52,Rejected,Data Science,General Skill Development
+TRN524,3.99,Waitlisted,Management,Project Management Professional Track
+TRN525,2.42,Rejected,IT,Cybersecurity Operations Program
+TRN526,2.74,Rejected,IT,General Skill Development
+TRN527,4.19,Selected,IT,Cloud Platform Engineer Track
+TRN528,4.94,Selected,Operations,Customer Experience Specialist Program
+TRN529,4.89,Selected,Data Science,General Skill Development
+TRN530,4.81,Selected,Healthcare,Medical Billing Specialist Program
+TRN531,2.02,Rejected,IT,General Skill Development
+TRN532,4.99,Selected,IT,General Skill Development
+TRN533,3.33,Waitlisted,Engineering,General Skill Development
+TRN534,3.04,Waitlisted,Management,Project Management Professional Track
+TRN535,4.88,Selected,Engineering,General Skill Development
+TRN536,4.49,Selected,IT,General Skill Development
+TRN537,1.85,Rejected,General,General Skill Development
+TRN538,3.88,Waitlisted,General,General Skill Development
+TRN539,1.96,Rejected,General,General Skill Development
+TRN540,2.62,Rejected,Management,Project Management Professional Track
+TRN541,4.12,Selected,Healthcare,Medical Billing Specialist Program
+TRN542,2.6,Rejected,Data Science,General Skill Development
+TRN543,2.77,Rejected,Management,General Skill Development
+TRN544,3.3,Waitlisted,Operations,Team Collaboration Professional
+TRN545,4.04,Selected,Operations,Customer Experience Specialist Program
+TRN546,1.93,Rejected,Management,General Skill Development
+TRN547,2.5,Rejected,General,General Skill Development
+TRN548,3.31,Waitlisted,General,General Skill Development
+TRN549,4.89,Selected,IT,General Skill Development
+TRN550,2.41,Rejected,Management,Project Management Professional Track
+TRN551,4.44,Selected,Data Science,General Skill Development
+TRN552,4.06,Selected,General,General Skill Development
+TRN553,2.03,Rejected,Operations,Customer Experience Specialist Program
+TRN554,2.71,Rejected,Engineering,General Skill Development
+TRN555,2.17,Rejected,Healthcare,Medical Billing Specialist Program
+TRN556,4.06,Selected,IT,Cloud Platform Engineer Track
+TRN557,4.8,Selected,Engineering,General Skill Development
+TRN558,2.23,Rejected,IT,General Skill Development
+TRN559,2.53,Rejected,Management,Project Management Professional Track
+TRN560,2.75,Rejected,General,General Skill Development
+TRN561,3.19,Waitlisted,Data Science,General Skill Development
+TRN562,3.12,Waitlisted,Engineering,General Skill Development
+TRN563,2.7,Rejected,Operations,Customer Experience Specialist Program
+TRN564,2.12,Rejected,General,General Skill Development
+TRN565,4.19,Selected,Operations,Team Collaboration Professional
+TRN566,2.18,Rejected,General,General Skill Development
+TRN567,2.36,Rejected,General,General Skill Development
+TRN568,4.83,Selected,Healthcare,Medical Billing Specialist Program
+TRN569,2.67,Rejected,Operations,Team Collaboration Professional
+TRN570,2.22,Rejected,Management,Project Management Professional Track
+TRN571,4.06,Selected,General,General Skill Development
+TRN572,4.35,Selected,Operations,Team Collaboration Professional
+TRN573,2.73,Rejected,Management,Project Management Professional Track
+TRN574,3.14,Waitlisted,IT,Cloud Platform Engineer Track
+TRN575,3.35,Waitlisted,IT,General Skill Development
+TRN576,4.49,Selected,General,General Skill Development
+TRN577,4.49,Selected,IT,Cloud Platform Engineer Track
+TRN578,4.09,Selected,Engineering,General Skill Development
+TRN579,1.99,Rejected,General,General Skill Development
+TRN580,2.21,Rejected,IT,Cybersecurity Operations Program
+TRN581,2.35,Rejected,Data Science,General Skill Development
+TRN582,4.06,Selected,General,General Skill Development
+TRN583,4.9,Selected,Data Science,General Skill Development
+TRN584,2.16,Rejected,IT,General Skill Development
+TRN585,4.81,Selected,Healthcare,Medical Billing Specialist Program
+TRN586,1.88,Rejected,IT,Cloud Platform Engineer Track
+TRN587,4.02,Selected,IT,Cloud Platform Engineer Track
+TRN588,4.04,Selected,Data Science,General Skill Development
+TRN589,2.29,Rejected,Data Science,General Skill Development
+TRN590,4.56,Selected,IT,General Skill Development
+TRN591,4.85,Selected,General,General Skill Development
+TRN592,4.17,Selected,Operations,Team Collaboration Professional
+TRN593,2.03,Rejected,Healthcare,Medical Billing Specialist Program
+TRN594,2.22,Rejected,Operations,Team Collaboration Professional
+TRN595,4.81,Selected,Operations,Customer Experience Specialist Program
+TRN596,2.56,Rejected,Engineering,General Skill Development
+TRN597,3.8,Waitlisted,IT,Cloud Platform Engineer Track
+TRN598,3.0,Waitlisted,Operations,Team Collaboration Professional
+TRN599,2.0,Rejected,Data Science,General Skill Development
+TRN600,4.61,Selected,Management,General Skill Development
+TRN601,3.03,Waitlisted,Data Science,General Skill Development
+TRN602,4.03,Selected,Engineering,General Skill Development
+TRN603,3.47,Waitlisted,IT,General Skill Development
+TRN604,3.53,Waitlisted,General,General Skill Development
+TRN605,1.94,Rejected,General,General Skill Development
+TRN606,4.38,Selected,Data Science,General Skill Development
+TRN607,4.96,Selected,General,General Skill Development
+TRN608,4.11,Selected,Data Science,General Skill Development
+TRN609,2.74,Rejected,Management,Project Management Professional Track
+TRN610,5.0,Selected,Management,General Skill Development
+TRN611,3.04,Waitlisted,General,General Skill Development
+TRN612,3.85,Waitlisted,Management,Project Management Professional Track
+TRN613,2.17,Rejected,General,General Skill Development
+TRN614,4.51,Selected,General,General Skill Development
+TRN615,4.0,Selected,General,General Skill Development
+TRN616,3.05,Waitlisted,Engineering,General Skill Development
+TRN617,3.05,Waitlisted,IT,Cloud Platform Engineer Track
+TRN618,2.63,Rejected,Data Science,General Skill Development
+TRN619,4.91,Selected,General,General Skill Development
+TRN620,4.25,Selected,Data Science,General Skill Development
+TRN621,2.18,Rejected,General,General Skill Development
+TRN622,4.2,Selected,Engineering,General Skill Development
+TRN623,4.41,Selected,Operations,Customer Experience Specialist Program
+TRN624,2.09,Rejected,Operations,Team Collaboration Professional
+TRN625,2.48,Rejected,General,General Skill Development
+TRN626,3.43,Waitlisted,Management,Project Management Professional Track
+TRN627,2.14,Rejected,General,General Skill Development
+TRN628,2.58,Rejected,Healthcare,Medical Billing Specialist Program
+TRN629,3.43,Waitlisted,General,General Skill Development
+TRN630,1.99,Rejected,Healthcare,Medical Billing Specialist Program
+TRN631,3.58,Waitlisted,General,General Skill Development
+TRN632,3.18,Waitlisted,Operations,Team Collaboration Professional
+TRN633,4.58,Selected,General,General Skill Development
+TRN634,2.15,Rejected,Engineering,General Skill Development
+TRN635,2.34,Rejected,Engineering,General Skill Development
+TRN636,4.61,Selected,IT,General Skill Development
+TRN637,3.17,Waitlisted,IT,General Skill Development
+TRN638,3.85,Waitlisted,IT,General Skill Development
+TRN639,3.82,Waitlisted,Operations,Team Collaboration Professional
+TRN640,4.83,Selected,Management,Project Management Professional Track
+TRN641,3.47,Waitlisted,Operations,Customer Experience Specialist Program
+TRN642,4.89,Selected,General,General Skill Development
+TRN643,2.28,Rejected,Engineering,General Skill Development
+TRN644,4.87,Selected,Healthcare,Medical Billing Specialist Program
+TRN645,4.36,Selected,IT,Cloud Platform Engineer Track
+TRN646,4.83,Selected,Operations,Customer Experience Specialist Program
+TRN647,2.52,Rejected,General,General Skill Development
+TRN648,4.34,Selected,IT,General Skill Development
+TRN649,2.68,Rejected,Management,General Skill Development
+TRN650,3.52,Waitlisted,Healthcare,Medical Billing Specialist Program
+TRN651,4.98,Selected,General,General Skill Development
+TRN652,4.48,Selected,General,General Skill Development
+TRN653,2.24,Rejected,IT,Cloud Platform Engineer Track
+TRN654,4.83,Selected,IT,General Skill Development
+TRN655,4.33,Selected,General,General Skill Development
+TRN656,3.02,Waitlisted,Data Science,General Skill Development
+TRN657,4.48,Selected,Operations,Team Collaboration Professional
+TRN658,3.6,Waitlisted,Data Science,General Skill Development
+TRN659,2.68,Rejected,Data Science,General Skill Development
+TRN660,4.01,Selected,IT,Cybersecurity Operations Program
+TRN661,4.61,Selected,IT,Cybersecurity Operations Program
+TRN662,4.9,Selected,General,General Skill Development
+TRN663,1.85,Rejected,General,General Skill Development
+TRN664,4.17,Selected,Operations,Customer Experience Specialist Program
+TRN665,2.66,Rejected,General,General Skill Development
+TRN666,2.0,Rejected,Data Science,General Skill Development
+TRN667,4.27,Selected,General,General Skill Development
+TRN668,4.12,Selected,Data Science,General Skill Development
+TRN669,2.14,Rejected,IT,Cloud Platform Engineer Track
+TRN670,4.96,Selected,IT,General Skill Development
+TRN671,3.03,Waitlisted,Management,General Skill Development
+TRN672,4.15,Selected,Operations,Customer Experience Specialist Program
+TRN673,3.32,Waitlisted,General,General Skill Development
+TRN674,4.84,Selected,IT,General Skill Development
+TRN675,2.79,Rejected,Management,Project Management Professional Track
+TRN676,3.53,Waitlisted,Operations,Customer Experience Specialist Program
+TRN677,3.12,Waitlisted,General,General Skill Development
+TRN678,3.65,Waitlisted,Operations,Team Collaboration Professional
+TRN679,2.28,Rejected,IT,General Skill Development
+TRN680,2.39,Rejected,Engineering,General Skill Development
+TRN681,4.23,Selected,Engineering,General Skill Development
+TRN682,3.66,Waitlisted,Operations,Team Collaboration Professional
+TRN683,3.83,Waitlisted,Data Science,General Skill Development
+TRN684,2.22,Rejected,Engineering,General Skill Development
+TRN685,4.42,Selected,Data Science,General Skill Development
+TRN686,4.97,Selected,Management,General Skill Development
+TRN687,4.92,Selected,General,General Skill Development
+TRN688,4.03,Selected,Management,Project Management Professional Track
+TRN689,2.8,Rejected,General,General Skill Development
+TRN690,1.97,Rejected,IT,Cloud Platform Engineer Track
+TRN691,2.43,Rejected,IT,Cybersecurity Operations Program
+TRN692,4.61,Selected,IT,Cloud Platform Engineer Track
+TRN693,2.3,Rejected,Data Science,General Skill Development
+TRN694,4.07,Selected,IT,General Skill Development
+TRN695,4.5,Selected,General,General Skill Development
+TRN696,2.28,Rejected,General,General Skill Development
+TRN697,2.3,Rejected,General,General Skill Development
+TRN698,2.02,Rejected,Engineering,General Skill Development
+TRN699,4.12,Selected,IT,General Skill Development
+TRN700,4.84,Selected,General,General Skill Development
+TRN701,3.89,Waitlisted,General,General Skill Development
+TRN702,2.08,Rejected,IT,General Skill Development
+TRN703,3.04,Waitlisted,Management,Project Management Professional Track
+TRN704,4.7,Selected,Management,Project Management Professional Track
+TRN705,4.06,Selected,Healthcare,Medical Billing Specialist Program
+TRN706,2.62,Rejected,General,General Skill Development
+TRN707,2.8,Rejected,IT,Cybersecurity Operations Program
+TRN708,2.48,Rejected,Management,Project Management Professional Track
+TRN709,3.35,Waitlisted,IT,Cybersecurity Operations Program
+TRN710,1.81,Rejected,Engineering,General Skill Development
+TRN711,4.5,Selected,Engineering,General Skill Development
+TRN712,2.71,Rejected,Data Science,General Skill Development
+TRN713,4.32,Selected,IT,General Skill Development
+TRN714,3.53,Waitlisted,General,General Skill Development
+TRN715,4.19,Selected,Management,General Skill Development
+TRN716,4.94,Selected,Management,General Skill Development
+TRN717,2.15,Rejected,Operations,Team Collaboration Professional
+TRN718,4.5,Selected,General,General Skill Development
+TRN719,4.17,Selected,Operations,Customer Experience Specialist Program
+TRN720,2.0,Rejected,Management,General Skill Development
+TRN721,3.81,Waitlisted,General,General Skill Development
+TRN722,3.91,Waitlisted,General,General Skill Development
+TRN723,1.93,Rejected,Operations,Customer Experience Specialist Program
+TRN724,1.84,Rejected,General,General Skill Development
+TRN725,4.83,Selected,General,General Skill Development
+TRN726,3.43,Waitlisted,IT,Cloud Platform Engineer Track
+TRN727,2.35,Rejected,IT,Cloud Platform Engineer Track
+TRN728,3.11,Waitlisted,IT,Cybersecurity Operations Program
+TRN729,4.53,Selected,IT,General Skill Development
+TRN730,2.62,Rejected,Engineering,General Skill Development
+TRN731,3.09,Waitlisted,IT,General Skill Development
+TRN732,4.13,Selected,Management,Project Management Professional Track
+TRN733,4.8,Selected,General,General Skill Development
+TRN734,1.92,Rejected,General,General Skill Development
+TRN735,3.11,Waitlisted,IT,General Skill Development
+TRN736,2.36,Rejected,General,General Skill Development
+TRN737,4.04,Selected,IT,Cloud Platform Engineer Track
+TRN738,1.89,Rejected,Operations,Customer Experience Specialist Program
+TRN739,4.12,Selected,Operations,Team Collaboration Professional
+TRN740,4.44,Selected,Healthcare,Medical Billing Specialist Program
+TRN741,2.31,Rejected,Healthcare,Medical Billing Specialist Program
+TRN742,3.15,Waitlisted,Data Science,General Skill Development
+TRN743,2.17,Rejected,IT,General Skill Development
+TRN744,2.33,Rejected,Operations,Customer Experience Specialist Program
+TRN745,2.21,Rejected,Data Science,General Skill Development
+TRN746,2.09,Rejected,Healthcare,Medical Billing Specialist Program
+TRN747,4.55,Selected,Data Science,General Skill Development
+TRN748,2.73,Rejected,General,General Skill Development
+TRN749,1.81,Rejected,Data Science,General Skill Development
+TRN750,3.03,Waitlisted,Data Science,General Skill Development
+TRN751,2.13,Rejected,Healthcare,Medical Billing Specialist Program
+TRN752,4.85,Selected,General,General Skill Development
+TRN753,4.97,Selected,Operations,Team Collaboration Professional
+TRN754,4.19,Selected,IT,Cloud Platform Engineer Track
+TRN755,3.14,Waitlisted,General,General Skill Development
+TRN756,2.04,Rejected,Healthcare,Medical Billing Specialist Program
+TRN757,2.79,Rejected,General,General Skill Development
+TRN758,2.5,Rejected,General,General Skill Development
+TRN759,3.12,Waitlisted,IT,Cybersecurity Operations Program
+TRN760,3.93,Waitlisted,IT,Cybersecurity Operations Program
+TRN761,4.02,Selected,IT,Cybersecurity Operations Program
+TRN762,4.82,Selected,Engineering,General Skill Development
+TRN763,1.9,Rejected,General,General Skill Development
+TRN764,4.43,Selected,Operations,Team Collaboration Professional
+TRN765,2.71,Rejected,General,General Skill Development
+TRN766,4.4,Selected,IT,Cybersecurity Operations Program
+TRN767,2.06,Rejected,General,General Skill Development
+TRN768,1.85,Rejected,General,General Skill Development
+TRN769,2.52,Rejected,IT,General Skill Development
+TRN770,2.31,Rejected,Operations,Team Collaboration Professional
+TRN771,4.22,Selected,Engineering,General Skill Development
+TRN772,5.0,Selected,General,General Skill Development
+TRN773,2.46,Rejected,General,General Skill Development
+TRN774,4.51,Selected,General,General Skill Development
+TRN775,3.46,Waitlisted,Data Science,General Skill Development
+TRN776,3.83,Waitlisted,General,General Skill Development
+TRN777,4.98,Selected,Healthcare,Medical Billing Specialist Program
+TRN778,3.17,Waitlisted,Operations,Customer Experience Specialist Program
+TRN779,3.18,Waitlisted,General,General Skill Development
+TRN780,3.38,Waitlisted,Data Science,General Skill Development
+TRN781,3.19,Waitlisted,IT,Cybersecurity Operations Program
+TRN782,4.87,Selected,IT,General Skill Development
+TRN783,2.29,Rejected,General,General Skill Development
+TRN784,4.18,Selected,IT,Cybersecurity Operations Program
+TRN785,4.67,Selected,Operations,Team Collaboration Professional
+TRN786,1.94,Rejected,IT,General Skill Development
+TRN787,2.65,Rejected,IT,General Skill Development
+TRN788,2.69,Rejected,General,General Skill Development
+TRN789,2.68,Rejected,Data Science,General Skill Development
+TRN790,2.13,Rejected,IT,Cybersecurity Operations Program
+TRN791,1.83,Rejected,IT,General Skill Development
+TRN792,2.68,Rejected,Management,General Skill Development
+TRN793,2.47,Rejected,Operations,Team Collaboration Professional
+TRN794,2.0,Rejected,General,General Skill Development
+TRN795,2.44,Rejected,Data Science,General Skill Development
+TRN796,3.53,Waitlisted,IT,Cloud Platform Engineer Track
+TRN797,2.34,Rejected,General,General Skill Development
+TRN798,2.72,Rejected,IT,Cybersecurity Operations Program
+TRN799,4.4,Selected,Management,General Skill Development
+TRN800,4.09,Selected,IT,General Skill Development
+TRN801,2.0,Rejected,IT,Cloud Platform Engineer Track
+TRN802,4.07,Selected,General,General Skill Development
+TRN803,2.28,Rejected,IT,General Skill Development
+TRN804,3.35,Waitlisted,Data Science,General Skill Development
+TRN805,4.2,Selected,Operations,Customer Experience Specialist Program
+TRN806,4.59,Selected,Management,General Skill Development
+TRN807,2.77,Rejected,Data Science,General Skill Development
+TRN808,2.14,Rejected,IT,Cybersecurity Operations Program
+TRN809,4.62,Selected,IT,General Skill Development
+TRN810,4.1,Selected,Management,General Skill Development
+TRN811,2.44,Rejected,Operations,Team Collaboration Professional
+TRN812,3.11,Waitlisted,General,General Skill Development
+TRN813,1.83,Rejected,Healthcare,Medical Billing Specialist Program
+TRN814,2.61,Rejected,Engineering,General Skill Development
+TRN815,2.37,Rejected,Engineering,General Skill Development
+TRN816,3.2,Waitlisted,Data Science,General Skill Development
+TRN817,2.4,Rejected,Operations,Team Collaboration Professional
+TRN818,2.26,Rejected,Data Science,General Skill Development
+TRN819,4.86,Selected,General,General Skill Development
+TRN820,4.98,Selected,General,General Skill Development
+TRN821,2.8,Rejected,Management,General Skill Development
+TRN822,3.52,Waitlisted,Engineering,General Skill Development
+TRN823,3.04,Waitlisted,General,General Skill Development
+TRN824,2.56,Rejected,General,General Skill Development
+TRN825,1.81,Rejected,Management,Project Management Professional Track
+TRN826,2.49,Rejected,Engineering,General Skill Development
+TRN827,1.85,Rejected,General,General Skill Development
+TRN828,2.76,Rejected,General,General Skill Development
+TRN829,3.19,Waitlisted,General,General Skill Development
+TRN830,1.85,Rejected,General,General Skill Development
+TRN831,3.94,Waitlisted,Data Science,General Skill Development
+TRN832,2.0,Rejected,Operations,Team Collaboration Professional
+TRN833,4.17,Selected,Operations,Team Collaboration Professional
+TRN834,4.91,Selected,Data Science,General Skill Development
+TRN835,3.09,Waitlisted,General,General Skill Development
+TRN836,4.91,Selected,General,General Skill Development
+TRN837,4.85,Selected,IT,Cybersecurity Operations Program
+TRN838,2.2,Rejected,General,General Skill Development
+TRN839,3.86,Waitlisted,Operations,Customer Experience Specialist Program
+TRN840,4.61,Selected,IT,General Skill Development
+TRN841,3.2,Waitlisted,General,General Skill Development
+TRN842,4.12,Selected,Operations,Team Collaboration Professional
+TRN843,1.95,Rejected,General,General Skill Development
+TRN844,3.05,Waitlisted,General,General Skill Development
+TRN845,4.43,Selected,IT,General Skill Development
+TRN846,2.03,Rejected,General,General Skill Development
+TRN847,3.18,Waitlisted,Operations,Team Collaboration Professional
+TRN848,1.83,Rejected,IT,General Skill Development
+TRN849,1.95,Rejected,IT,General Skill Development
+TRN850,4.89,Selected,IT,General Skill Development
+TRN851,2.34,Rejected,IT,Cloud Platform Engineer Track
+TRN852,2.32,Rejected,IT,Cloud Platform Engineer Track
+TRN853,3.44,Waitlisted,Data Science,General Skill Development
+TRN854,2.36,Rejected,Management,Project Management Professional Track
+TRN855,4.91,Selected,Operations,Team Collaboration Professional
+TRN856,4.94,Selected,IT,General Skill Development
+TRN857,4.83,Selected,Engineering,General Skill Development
+TRN858,4.08,Selected,Engineering,General Skill Development
+TRN859,4.96,Selected,Data Science,General Skill Development
+TRN860,4.9,Selected,General,General Skill Development
+TRN861,2.68,Rejected,Data Science,General Skill Development
+TRN862,4.27,Selected,IT,Cloud Platform Engineer Track
+TRN863,3.57,Waitlisted,Data Science,General Skill Development
+TRN864,3.37,Waitlisted,Operations,Customer Experience Specialist Program
+TRN865,4.3,Selected,Data Science,General Skill Development
+TRN866,2.49,Rejected,General,General Skill Development
+TRN867,3.38,Waitlisted,General,General Skill Development
+TRN868,2.16,Rejected,Engineering,General Skill Development
+TRN869,3.42,Waitlisted,General,General Skill Development
+TRN870,3.08,Waitlisted,Management,General Skill Development
+TRN871,4.98,Selected,General,General Skill Development
+TRN872,2.38,Rejected,General,General Skill Development
+TRN873,3.97,Waitlisted,Operations,Team Collaboration Professional
+TRN874,2.27,Rejected,Engineering,General Skill Development
+TRN875,2.54,Rejected,Operations,Customer Experience Specialist Program
+TRN876,3.63,Waitlisted,General,General Skill Development
+TRN877,2.06,Rejected,IT,Cybersecurity Operations Program
+TRN878,1.86,Rejected,General,General Skill Development
+TRN879,4.49,Selected,IT,General Skill Development
+TRN880,4.7,Selected,Engineering,General Skill Development
+TRN881,4.15,Selected,General,General Skill Development
+TRN882,2.36,Rejected,Management,General Skill Development
+TRN883,2.06,Rejected,IT,Cloud Platform Engineer Track
+TRN884,2.55,Rejected,Engineering,General Skill Development
+TRN885,2.1,Rejected,Engineering,General Skill Development
+TRN886,3.52,Waitlisted,General,General Skill Development
+TRN887,4.04,Selected,General,General Skill Development
+TRN888,4.5,Selected,IT,Cybersecurity Operations Program
+TRN889,2.34,Rejected,Data Science,General Skill Development
+TRN890,3.31,Waitlisted,General,General Skill Development
+TRN891,3.48,Waitlisted,IT,Cybersecurity Operations Program
+TRN892,4.13,Selected,General,General Skill Development
+TRN893,4.83,Selected,Healthcare,Medical Billing Specialist Program
+TRN894,4.69,Selected,IT,Cloud Platform Engineer Track
+TRN895,2.62,Rejected,Operations,Team Collaboration Professional
+TRN896,2.74,Rejected,Engineering,General Skill Development
+TRN897,2.23,Rejected,IT,General Skill Development
+TRN898,3.45,Waitlisted,General,General Skill Development
+TRN899,3.6,Waitlisted,General,General Skill Development
+TRN900,4.68,Selected,General,General Skill Development
+TRN901,1.99,Rejected,Engineering,General Skill Development
+TRN902,4.43,Selected,General,General Skill Development
+TRN903,1.86,Rejected,Engineering,General Skill Development
+TRN904,4.06,Selected,Engineering,General Skill Development
+TRN905,3.99,Waitlisted,General,General Skill Development
+TRN906,3.88,Waitlisted,Healthcare,Medical Billing Specialist Program
+TRN907,2.38,Rejected,IT,Cybersecurity Operations Program
+TRN908,4.68,Selected,IT,General Skill Development
+TRN909,3.37,Waitlisted,IT,Cloud Platform Engineer Track
+TRN910,2.7,Rejected,General,General Skill Development
+TRN911,2.71,Rejected,Engineering,General Skill Development
+TRN912,1.93,Rejected,Operations,Team Collaboration Professional
+TRN913,3.9,Waitlisted,IT,Cloud Platform Engineer Track
+TRN914,2.36,Rejected,Data Science,General Skill Development
+TRN915,2.65,Rejected,General,General Skill Development
+TRN916,2.7,Rejected,IT,General Skill Development
+TRN917,2.27,Rejected,Operations,Team Collaboration Professional
+TRN918,3.14,Waitlisted,Data Science,General Skill Development
+TRN919,3.52,Waitlisted,IT,General Skill Development
+TRN920,2.71,Rejected,Data Science,General Skill Development
+TRN921,3.82,Waitlisted,Engineering,General Skill Development
+TRN922,3.01,Waitlisted,IT,Cloud Platform Engineer Track
+TRN923,4.62,Selected,Healthcare,Medical Billing Specialist Program
+TRN924,2.46,Rejected,Operations,Team Collaboration Professional
+TRN925,2.26,Rejected,Management,General Skill Development
+TRN926,4.34,Selected,General,General Skill Development
+TRN927,3.68,Waitlisted,IT,General Skill Development
+TRN928,2.69,Rejected,Engineering,General Skill Development
+TRN929,2.38,Rejected,Healthcare,Medical Billing Specialist Program
+TRN930,4.03,Selected,IT,General Skill Development
+TRN931,1.83,Rejected,Data Science,General Skill Development
+TRN932,1.98,Rejected,General,General Skill Development
+TRN933,3.85,Waitlisted,Data Science,General Skill Development
+TRN934,2.77,Rejected,Healthcare,Medical Billing Specialist Program
+TRN935,3.15,Waitlisted,IT,Cloud Platform Engineer Track
+TRN936,2.68,Rejected,Data Science,General Skill Development
+TRN937,2.11,Rejected,General,General Skill Development
+TRN938,2.5,Rejected,General,General Skill Development
+TRN939,3.04,Waitlisted,Data Science,General Skill Development
+TRN940,3.41,Waitlisted,Data Science,General Skill Development
+TRN941,3.52,Waitlisted,Operations,Customer Experience Specialist Program
+TRN942,4.13,Selected,Engineering,General Skill Development
+TRN943,2.48,Rejected,Engineering,General Skill Development
+TRN944,3.18,Waitlisted,General,General Skill Development
+TRN945,2.71,Rejected,Data Science,General Skill Development
+TRN946,3.51,Waitlisted,General,General Skill Development
+TRN947,4.65,Selected,Data Science,General Skill Development
+TRN948,1.89,Rejected,Operations,Customer Experience Specialist Program
+TRN949,4.44,Selected,IT,General Skill Development
+TRN950,2.69,Rejected,Management,General Skill Development
+TRN951,3.06,Waitlisted,IT,Cybersecurity Operations Program
+TRN952,3.89,Waitlisted,Data Science,General Skill Development
+TRN953,4.66,Selected,Management,Project Management Professional Track
+TRN954,2.03,Rejected,Data Science,General Skill Development
+TRN955,2.49,Rejected,Data Science,General Skill Development
+TRN956,1.89,Rejected,General,General Skill Development
+TRN957,4.06,Selected,Healthcare,Medical Billing Specialist Program
+TRN958,4.88,Selected,IT,General Skill Development
+TRN959,4.34,Selected,Management,General Skill Development
+TRN960,3.38,Waitlisted,IT,Cloud Platform Engineer Track
+TRN961,2.18,Rejected,Engineering,General Skill Development
+TRN962,2.73,Rejected,General,General Skill Development
+TRN963,3.93,Waitlisted,Healthcare,Medical Billing Specialist Program
+TRN964,4.68,Selected,Data Science,General Skill Development
+TRN965,4.28,Selected,Healthcare,Medical Billing Specialist Program
+TRN966,3.68,Waitlisted,IT,General Skill Development
+TRN967,3.63,Waitlisted,Data Science,General Skill Development
+TRN968,4.03,Selected,General,General Skill Development
+TRN969,3.3,Waitlisted,General,General Skill Development
+TRN970,3.04,Waitlisted,Operations,Customer Experience Specialist Program
+TRN971,4.49,Selected,Data Science,General Skill Development
+TRN972,2.15,Rejected,IT,General Skill Development
+TRN973,3.32,Waitlisted,Engineering,General Skill Development
+TRN974,2.25,Rejected,Healthcare,Medical Billing Specialist Program
+TRN975,3.67,Waitlisted,Management,Project Management Professional Track
+TRN976,3.95,Waitlisted,Operations,Customer Experience Specialist Program
+TRN977,2.38,Rejected,General,General Skill Development
+TRN978,3.12,Waitlisted,Operations,Team Collaboration Professional
+TRN979,1.99,Rejected,General,General Skill Development
+TRN980,3.0,Waitlisted,Data Science,General Skill Development
+TRN981,2.04,Rejected,IT,Cloud Platform Engineer Track
+TRN982,2.0,Rejected,General,General Skill Development
+TRN983,3.18,Waitlisted,Management,General Skill Development
+TRN984,4.29,Selected,IT,Cybersecurity Operations Program
+TRN985,2.74,Rejected,General,General Skill Development
+TRN986,4.57,Selected,General,General Skill Development
+TRN987,1.82,Rejected,Management,General Skill Development
+TRN988,3.04,Waitlisted,IT,General Skill Development
+TRN989,3.88,Waitlisted,General,General Skill Development
+TRN990,1.87,Rejected,Data Science,General Skill Development
+TRN991,3.53,Waitlisted,Data Science,General Skill Development
+TRN992,2.72,Rejected,Data Science,General Skill Development
+TRN993,3.0,Waitlisted,General,General Skill Development
+TRN994,2.5,Rejected,Operations,Team Collaboration Professional
+TRN995,2.56,Rejected,Operations,Customer Experience Specialist Program
+TRN996,2.2,Rejected,Operations,Team Collaboration Professional
+TRN997,3.16,Waitlisted,General,General Skill Development
+TRN998,2.55,Rejected,Management,General Skill Development
+TRN999,4.62,Selected,General,General Skill Development
+TRN1000,3.05,Waitlisted,General,General Skill Development

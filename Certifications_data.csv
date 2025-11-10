@@ -1,0 +1,501 @@
+certificate_id,emp_id,trainee_id,certification_name,issuing_org,issue_date
+CERT0001,22,,Data Science Professional,AWS,2023-10-14
+CERT0002,239,,Project Management Professional,Oracle,2025-04-25
+CERT0003,441,,Cybersecurity Analyst,Oracle,2024-12-12
+CERT0004,320,,DevOps Engineer,Google,2023-06-30
+CERT0005,331,,DevOps Engineer,AWS,2023-05-14
+CERT0006,359,,Google Cloud Engineer,CompTIA,2025-07-06
+CERT0007,980,,Data Science Professional,Oracle,2025-07-02
+CERT0008,42,,DevOps Engineer,ISACA,2022-11-24
+CERT0009,941,,Machine Learning Specialist,IBM,2025-07-20
+CERT0010,,TRN931,Project Management Professional,CompTIA,2025-01-23
+CERT0011,961,,Database Administrator,AWS,2023-10-08
+CERT0012,296,,Google Cloud Engineer,ISACA,2024-04-08
+CERT0013,371,,Google Cloud Engineer,Oracle,2024-08-23
+CERT0014,,TRN468,Data Science Professional,Microsoft,2024-05-10
+CERT0015,,TRN611,Google Cloud Engineer,Oracle,2023-11-30
+CERT0016,657,,Google Cloud Engineer,Oracle,2023-09-30
+CERT0017,41,,Cybersecurity Analyst,Oracle,2024-10-13
+CERT0018,417,,Data Science Professional,Google,2023-11-12
+CERT0019,641,,Google Cloud Engineer,Google,2024-05-06
+CERT0020,,TRN418,Azure Administrator,CompTIA,2023-07-31
+CERT0021,416,,Project Management Professional,IBM,2023-03-29
+CERT0022,915,,Project Management Professional,CompTIA,2024-10-21
+CERT0023,482,,Azure Administrator,IBM,2025-08-13
+CERT0024,,TRN603,Data Science Professional,IBM,2024-07-11
+CERT0025,,TRN660,Azure Administrator,Microsoft,2023-09-13
+CERT0026,,TRN240,Cybersecurity Analyst,Oracle,2024-02-07
+CERT0027,999,,AWS Solutions Architect,ISACA,2023-01-22
+CERT0028,,TRN452,Azure Administrator,IBM,2025-08-06
+CERT0029,593,,Google Cloud Engineer,AWS,2022-11-13
+CERT0030,61,,Database Administrator,Oracle,2024-09-18
+CERT0031,919,,Project Management Professional,ISACA,2023-05-10
+CERT0032,592,,AWS Solutions Architect,ISACA,2023-08-12
+CERT0033,316,,Network Security Expert,IBM,2025-08-20
+CERT0034,860,,Machine Learning Specialist,AWS,2023-04-06
+CERT0035,371,,Machine Learning Specialist,Microsoft,2025-10-25
+CERT0036,996,,Google Cloud Engineer,IBM,2025-02-16
+CERT0037,981,,Machine Learning Specialist,Microsoft,2025-08-27
+CERT0038,344,,AWS Solutions Architect,Microsoft,2025-02-23
+CERT0039,,TRN878,AWS Solutions Architect,AWS,2025-06-03
+CERT0040,707,,DevOps Engineer,Microsoft,2023-04-19
+CERT0041,665,,Azure Administrator,IBM,2024-10-05
+CERT0042,277,,AWS Solutions Architect,Google,2023-11-22
+CERT0043,364,,Network Security Expert,Oracle,2025-03-06
+CERT0044,795,,Cybersecurity Analyst,IBM,2025-08-10
+CERT0045,992,,Project Management Professional,IBM,2025-07-12
+CERT0046,,TRN939,Data Science Professional,CompTIA,2022-12-06
+CERT0047,477,,Cybersecurity Analyst,Microsoft,2024-08-12
+CERT0048,179,,Machine Learning Specialist,Microsoft,2024-06-27
+CERT0049,,TRN722,DevOps Engineer,CompTIA,2023-05-25
+CERT0050,967,,AWS Solutions Architect,IBM,2023-08-23
+CERT0051,,TRN201,Network Security Expert,AWS,2025-01-08
+CERT0052,631,,DevOps Engineer,CompTIA,2022-11-26
+CERT0053,188,,Machine Learning Specialist,Microsoft,2025-03-23
+CERT0054,983,,Database Administrator,IBM,2025-06-10
+CERT0055,631,,Data Science Professional,Oracle,2024-05-05
+CERT0056,,TRN327,Google Cloud Engineer,Oracle,2023-07-08
+CERT0057,142,,Network Security Expert,CompTIA,2024-01-01
+CERT0058,310,,Google Cloud Engineer,CompTIA,2024-03-27
+CERT0059,291,,Database Administrator,ISACA,2024-11-03
+CERT0060,778,,Machine Learning Specialist,IBM,2023-07-16
+CERT0061,795,,DevOps Engineer,Microsoft,2023-08-24
+CERT0062,563,,Database Administrator,ISACA,2023-06-07
+CERT0063,,TRN687,Azure Administrator,IBM,2024-05-27
+CERT0064,686,,Project Management Professional,Google,2024-11-03
+CERT0065,508,,AWS Solutions Architect,IBM,2024-12-15
+CERT0066,439,,Machine Learning Specialist,Oracle,2025-07-13
+CERT0067,416,,Machine Learning Specialist,AWS,2023-11-18
+CERT0068,651,,Cybersecurity Analyst,Microsoft,2024-03-06
+CERT0069,600,,Network Security Expert,ISACA,2025-04-04
+CERT0070,253,,Cybersecurity Analyst,IBM,2024-03-03
+CERT0071,258,,Cybersecurity Analyst,Oracle,2025-10-01
+CERT0072,313,,Machine Learning Specialist,Google,2023-05-04
+CERT0073,,TRN757,DevOps Engineer,IBM,2025-04-19
+CERT0074,283,,Azure Administrator,CompTIA,2022-12-20
+CERT0075,228,,Cybersecurity Analyst,CompTIA,2023-05-21
+CERT0076,778,,DevOps Engineer,CompTIA,2022-12-15
+CERT0077,786,,AWS Solutions Architect,CompTIA,2023-01-10
+CERT0078,393,,Machine Learning Specialist,IBM,2024-03-14
+CERT0079,721,,Data Science Professional,Google,2024-05-01
+CERT0080,550,,Network Security Expert,IBM,2024-01-22
+CERT0081,627,,Project Management Professional,ISACA,2023-07-31
+CERT0082,249,,Cybersecurity Analyst,ISACA,2023-06-02
+CERT0083,646,,Project Management Professional,AWS,2023-10-25
+CERT0084,149,,Data Science Professional,IBM,2024-12-03
+CERT0085,326,,Project Management Professional,Microsoft,2024-09-11
+CERT0086,,TRN349,Machine Learning Specialist,Microsoft,2024-08-15
+CERT0087,914,,DevOps Engineer,CompTIA,2024-12-13
+CERT0088,142,,Database Administrator,Microsoft,2023-09-23
+CERT0089,929,,Machine Learning Specialist,Google,2024-04-06
+CERT0090,92,,Data Science Professional,CompTIA,2024-02-08
+CERT0091,776,,DevOps Engineer,IBM,2025-06-28
+CERT0092,,TRN794,Database Administrator,AWS,2024-11-07
+CERT0093,707,,Cybersecurity Analyst,Oracle,2024-01-03
+CERT0094,,TRN557,Machine Learning Specialist,AWS,2024-06-11
+CERT0095,793,,Data Science Professional,Google,2024-11-06
+CERT0096,74,,Project Management Professional,CompTIA,2023-03-30
+CERT0097,,TRN873,Project Management Professional,ISACA,2024-03-06
+CERT0098,228,,Google Cloud Engineer,Microsoft,2022-12-15
+CERT0099,,TRN721,DevOps Engineer,ISACA,2023-04-11
+CERT0100,,TRN416,Cybersecurity Analyst,AWS,2024-01-16
+CERT0101,968,,Google Cloud Engineer,Microsoft,2024-01-29
+CERT0102,923,,DevOps Engineer,AWS,2023-11-02
+CERT0103,814,,DevOps Engineer,Microsoft,2022-12-06
+CERT0104,356,,Network Security Expert,AWS,2024-06-28
+CERT0105,,TRN813,AWS Solutions Architect,ISACA,2025-05-12
+CERT0106,734,,Project Management Professional,Oracle,2025-08-14
+CERT0107,,TRN814,Project Management Professional,CompTIA,2025-01-15
+CERT0108,212,,DevOps Engineer,Microsoft,2025-09-05
+CERT0109,,TRN369,Database Administrator,IBM,2023-09-15
+CERT0110,497,,AWS Solutions Architect,ISACA,2025-10-01
+CERT0111,515,,Machine Learning Specialist,ISACA,2023-10-04
+CERT0112,580,,Machine Learning Specialist,IBM,2025-04-17
+CERT0113,501,,Project Management Professional,CompTIA,2025-10-08
+CERT0114,,TRN825,Azure Administrator,Oracle,2024-12-14
+CERT0115,547,,Cybersecurity Analyst,Oracle,2025-09-14
+CERT0116,68,,Google Cloud Engineer,IBM,2025-04-22
+CERT0117,745,,Database Administrator,IBM,2024-06-02
+CERT0118,155,,Azure Administrator,ISACA,2023-05-08
+CERT0119,271,,Project Management Professional,ISACA,2023-04-08
+CERT0120,637,,Database Administrator,AWS,2025-10-24
+CERT0121,626,,Machine Learning Specialist,Microsoft,2023-01-08
+CERT0122,,TRN506,DevOps Engineer,CompTIA,2024-07-27
+CERT0123,447,,DevOps Engineer,AWS,2024-12-16
+CERT0124,586,,Google Cloud Engineer,CompTIA,2023-08-15
+CERT0125,,TRN998,Azure Administrator,Oracle,2025-01-05
+CERT0126,264,,Machine Learning Specialist,IBM,2024-10-30
+CERT0127,210,,Azure Administrator,Microsoft,2024-10-18
+CERT0128,281,,Google Cloud Engineer,CompTIA,2022-11-18
+CERT0129,,TRN537,DevOps Engineer,CompTIA,2024-07-25
+CERT0130,,TRN495,Google Cloud Engineer,CompTIA,2025-10-24
+CERT0131,591,,AWS Solutions Architect,AWS,2025-03-15
+CERT0132,75,,Cybersecurity Analyst,ISACA,2024-07-11
+CERT0133,937,,Google Cloud Engineer,Microsoft,2025-06-07
+CERT0134,219,,AWS Solutions Architect,CompTIA,2023-06-04
+CERT0135,,TRN729,Google Cloud Engineer,IBM,2023-04-28
+CERT0136,640,,Database Administrator,CompTIA,2023-03-16
+CERT0137,204,,Azure Administrator,AWS,2025-04-18
+CERT0138,772,,Data Science Professional,AWS,2025-08-17
+CERT0139,754,,DevOps Engineer,Google,2023-04-09
+CERT0140,376,,Azure Administrator,Google,2024-06-13
+CERT0141,1000,,Database Administrator,CompTIA,2025-07-27
+CERT0142,,TRN614,DevOps Engineer,IBM,2023-02-20
+CERT0143,857,,Network Security Expert,Google,2025-03-27
+CERT0144,636,,Data Science Professional,CompTIA,2025-04-07
+CERT0145,267,,Database Administrator,IBM,2024-10-13
+CERT0146,,TRN301,AWS Solutions Architect,AWS,2025-11-02
+CERT0147,796,,Azure Administrator,AWS,2024-04-14
+CERT0148,293,,Cybersecurity Analyst,Microsoft,2025-04-27
+CERT0149,835,,Network Security Expert,Microsoft,2024-08-09
+CERT0150,652,,AWS Solutions Architect,ISACA,2023-02-05
+CERT0151,,TRN808,Database Administrator,CompTIA,2025-09-12
+CERT0152,353,,AWS Solutions Architect,IBM,2023-03-13
+CERT0153,879,,Data Science Professional,Microsoft,2024-03-18
+CERT0154,754,,DevOps Engineer,Google,2025-08-08
+CERT0155,767,,Azure Administrator,Google,2023-12-25
+CERT0156,,TRN234,Google Cloud Engineer,IBM,2024-11-03
+CERT0157,147,,Database Administrator,IBM,2023-10-31
+CERT0158,799,,AWS Solutions Architect,CompTIA,2024-09-26
+CERT0159,,TRN614,AWS Solutions Architect,IBM,2025-11-04
+CERT0160,,TRN248,Azure Administrator,AWS,2024-03-17
+CERT0161,92,,DevOps Engineer,IBM,2024-08-03
+CERT0162,,TRN640,AWS Solutions Architect,Oracle,2023-07-15
+CERT0163,745,,Data Science Professional,AWS,2023-12-05
+CERT0164,609,,Database Administrator,IBM,2024-02-02
+CERT0165,802,,Google Cloud Engineer,Google,2025-07-12
+CERT0166,143,,DevOps Engineer,CompTIA,2025-01-24
+CERT0167,,TRN318,Google Cloud Engineer,CompTIA,2023-11-26
+CERT0168,,TRN447,Network Security Expert,AWS,2025-02-17
+CERT0169,187,,Data Science Professional,CompTIA,2024-06-04
+CERT0170,475,,AWS Solutions Architect,AWS,2025-08-13
+CERT0171,,TRN226,Project Management Professional,Oracle,2025-09-08
+CERT0172,992,,Data Science Professional,ISACA,2024-08-25
+CERT0173,232,,Project Management Professional,ISACA,2022-11-29
+CERT0174,378,,DevOps Engineer,CompTIA,2023-05-07
+CERT0175,360,,Data Science Professional,ISACA,2024-03-05
+CERT0176,248,,DevOps Engineer,Oracle,2024-11-26
+CERT0177,559,,Database Administrator,Microsoft,2024-03-17
+CERT0178,204,,Database Administrator,IBM,2022-11-19
+CERT0179,113,,Network Security Expert,CompTIA,2024-12-01
+CERT0180,86,,Project Management Professional,ISACA,2025-10-20
+CERT0181,84,,Cybersecurity Analyst,Microsoft,2024-02-14
+CERT0182,429,,Machine Learning Specialist,IBM,2023-03-20
+CERT0183,599,,Database Administrator,Oracle,2024-07-06
+CERT0184,17,,Google Cloud Engineer,CompTIA,2025-09-04
+CERT0185,,TRN530,Cybersecurity Analyst,AWS,2023-11-30
+CERT0186,495,,Azure Administrator,ISACA,2022-12-09
+CERT0187,646,,DevOps Engineer,CompTIA,2023-10-15
+CERT0188,404,,Project Management Professional,ISACA,2025-03-07
+CERT0189,962,,AWS Solutions Architect,Google,2024-08-16
+CERT0190,371,,Network Security Expert,ISACA,2024-09-14
+CERT0191,943,,AWS Solutions Architect,ISACA,2024-02-02
+CERT0192,151,,Google Cloud Engineer,AWS,2024-06-03
+CERT0193,216,,Data Science Professional,AWS,2024-02-03
+CERT0194,,TRN509,AWS Solutions Architect,Microsoft,2022-11-23
+CERT0195,87,,AWS Solutions Architect,Google,2024-11-02
+CERT0196,782,,Database Administrator,Microsoft,2025-05-02
+CERT0197,300,,DevOps Engineer,Microsoft,2023-04-05
+CERT0198,557,,DevOps Engineer,IBM,2025-01-29
+CERT0199,96,,AWS Solutions Architect,Oracle,2025-03-17
+CERT0200,981,,Machine Learning Specialist,Oracle,2022-12-06
+CERT0201,,TRN765,Cybersecurity Analyst,ISACA,2023-06-28
+CERT0202,,TRN953,Machine Learning Specialist,IBM,2024-02-01
+CERT0203,,TRN784,Azure Administrator,ISACA,2024-02-18
+CERT0204,838,,Database Administrator,AWS,2023-07-02
+CERT0205,709,,Network Security Expert,Google,2023-07-24
+CERT0206,,TRN247,Cybersecurity Analyst,Oracle,2025-05-09
+CERT0207,128,,Azure Administrator,ISACA,2023-08-02
+CERT0208,,TRN646,Google Cloud Engineer,Oracle,2023-02-20
+CERT0209,139,,Machine Learning Specialist,IBM,2025-06-21
+CERT0210,,TRN505,Database Administrator,AWS,2025-02-28
+CERT0211,,TRN514,DevOps Engineer,CompTIA,2022-12-17
+CERT0212,261,,Machine Learning Specialist,ISACA,2024-08-24
+CERT0213,,TRN387,Data Science Professional,Oracle,2024-09-10
+CERT0214,229,,Google Cloud Engineer,CompTIA,2025-04-28
+CERT0215,83,,AWS Solutions Architect,Google,2024-10-07
+CERT0216,925,,Project Management Professional,AWS,2023-12-15
+CERT0217,504,,AWS Solutions Architect,IBM,2023-10-19
+CERT0218,457,,Database Administrator,Google,2025-03-26
+CERT0219,596,,Data Science Professional,CompTIA,2023-01-04
+CERT0220,5,,Database Administrator,AWS,2025-03-01
+CERT0221,219,,Cybersecurity Analyst,Microsoft,2023-12-22
+CERT0222,,TRN334,Google Cloud Engineer,IBM,2023-07-10
+CERT0223,901,,Project Management Professional,Oracle,2025-09-09
+CERT0224,223,,Network Security Expert,AWS,2023-12-30
+CERT0225,171,,DevOps Engineer,Microsoft,2025-06-20
+CERT0226,,TRN304,Project Management Professional,IBM,2023-06-09
+CERT0227,478,,Google Cloud Engineer,Google,2024-04-05
+CERT0228,557,,Cybersecurity Analyst,Oracle,2025-05-25
+CERT0229,,TRN397,AWS Solutions Architect,AWS,2023-06-01
+CERT0230,,TRN499,Google Cloud Engineer,ISACA,2024-05-12
+CERT0231,349,,Database Administrator,IBM,2023-12-26
+CERT0232,622,,Project Management Professional,ISACA,2024-03-27
+CERT0233,383,,Project Management Professional,Oracle,2024-04-13
+CERT0234,845,,Cybersecurity Analyst,Microsoft,2025-08-08
+CERT0235,,TRN624,DevOps Engineer,AWS,2023-09-04
+CERT0236,644,,Database Administrator,IBM,2024-09-15
+CERT0237,499,,Azure Administrator,AWS,2024-05-17
+CERT0238,122,,Database Administrator,Microsoft,2025-04-03
+CERT0239,327,,Google Cloud Engineer,Google,2024-05-12
+CERT0240,313,,Project Management Professional,Google,2025-06-20
+CERT0241,829,,Cybersecurity Analyst,Microsoft,2024-10-16
+CERT0242,512,,Network Security Expert,CompTIA,2025-05-20
+CERT0243,,TRN929,Network Security Expert,ISACA,2024-04-04
+CERT0244,112,,Azure Administrator,AWS,2025-06-18
+CERT0245,974,,Network Security Expert,AWS,2025-05-27
+CERT0246,106,,AWS Solutions Architect,ISACA,2025-04-09
+CERT0247,952,,Machine Learning Specialist,IBM,2025-07-05
+CERT0248,263,,Google Cloud Engineer,Microsoft,2024-07-08
+CERT0249,258,,Machine Learning Specialist,Oracle,2022-11-10
+CERT0250,425,,Google Cloud Engineer,AWS,2024-08-09
+CERT0251,,TRN983,Cybersecurity Analyst,Google,2024-03-02
+CERT0252,247,,Network Security Expert,Microsoft,2022-11-20
+CERT0253,,TRN353,AWS Solutions Architect,ISACA,2024-06-10
+CERT0254,,TRN330,Cybersecurity Analyst,ISACA,2025-11-06
+CERT0255,682,,DevOps Engineer,CompTIA,2023-06-27
+CERT0256,,TRN619,DevOps Engineer,IBM,2022-11-13
+CERT0257,,TRN631,Google Cloud Engineer,ISACA,2025-06-02
+CERT0258,,TRN676,Project Management Professional,Google,2024-12-30
+CERT0259,,TRN321,AWS Solutions Architect,AWS,2025-09-27
+CERT0260,166,,Project Management Professional,Microsoft,2025-06-22
+CERT0261,652,,AWS Solutions Architect,AWS,2023-12-15
+CERT0262,,TRN530,Azure Administrator,ISACA,2025-01-04
+CERT0263,65,,Cybersecurity Analyst,Google,2024-02-14
+CERT0264,339,,Database Administrator,Microsoft,2025-08-20
+CERT0265,299,,Machine Learning Specialist,Google,2023-03-15
+CERT0266,,TRN653,Project Management Professional,Google,2024-09-10
+CERT0267,,TRN877,Cybersecurity Analyst,AWS,2024-06-27
+CERT0268,126,,DevOps Engineer,IBM,2023-07-15
+CERT0269,13,,Database Administrator,Microsoft,2023-07-11
+CERT0270,,TRN599,Azure Administrator,Oracle,2023-06-03
+CERT0271,926,,Data Science Professional,CompTIA,2024-09-10
+CERT0272,890,,Azure Administrator,IBM,2024-06-22
+CERT0273,699,,Google Cloud Engineer,IBM,2023-03-15
+CERT0274,274,,Azure Administrator,Google,2024-09-22
+CERT0275,873,,DevOps Engineer,ISACA,2024-08-29
+CERT0276,303,,Data Science Professional,ISACA,2024-11-15
+CERT0277,290,,Database Administrator,Oracle,2024-06-29
+CERT0278,191,,DevOps Engineer,Microsoft,2025-01-12
+CERT0279,498,,DevOps Engineer,Google,2023-08-27
+CERT0280,738,,Cybersecurity Analyst,Google,2024-01-11
+CERT0281,234,,Project Management Professional,Microsoft,2023-12-06
+CERT0282,,TRN673,Google Cloud Engineer,Google,2022-11-25
+CERT0283,,TRN777,Project Management Professional,Oracle,2024-11-15
+CERT0284,420,,AWS Solutions Architect,CompTIA,2024-12-06
+CERT0285,846,,Project Management Professional,Microsoft,2024-08-05
+CERT0286,508,,Network Security Expert,CompTIA,2023-06-16
+CERT0287,491,,Network Security Expert,Microsoft,2025-02-09
+CERT0288,969,,Cybersecurity Analyst,IBM,2023-10-10
+CERT0289,,TRN565,Project Management Professional,Oracle,2024-03-18
+CERT0290,880,,Database Administrator,AWS,2023-11-27
+CERT0291,,TRN702,Google Cloud Engineer,AWS,2023-02-20
+CERT0292,,TRN524,Database Administrator,Google,2024-06-08
+CERT0293,570,,Data Science Professional,CompTIA,2023-02-28
+CERT0294,,TRN535,Database Administrator,AWS,2025-04-02
+CERT0295,842,,Google Cloud Engineer,IBM,2025-01-04
+CERT0296,21,,Database Administrator,AWS,2025-07-27
+CERT0297,445,,Azure Administrator,CompTIA,2023-04-07
+CERT0298,580,,Database Administrator,IBM,2025-03-01
+CERT0299,991,,Cybersecurity Analyst,CompTIA,2025-08-23
+CERT0300,11,,Cybersecurity Analyst,CompTIA,2023-01-20
+CERT0301,,TRN686,Project Management Professional,ISACA,2023-06-15
+CERT0302,378,,Network Security Expert,ISACA,2024-02-13
+CERT0303,726,,Azure Administrator,Oracle,2024-11-23
+CERT0304,190,,Azure Administrator,Microsoft,2024-11-17
+CERT0305,606,,Database Administrator,Google,2024-01-07
+CERT0306,598,,DevOps Engineer,Google,2024-02-18
+CERT0307,,TRN327,Google Cloud Engineer,AWS,2025-10-15
+CERT0308,754,,AWS Solutions Architect,ISACA,2023-04-11
+CERT0309,239,,Machine Learning Specialist,ISACA,2023-09-29
+CERT0310,953,,Cybersecurity Analyst,CompTIA,2024-05-13
+CERT0311,858,,Database Administrator,IBM,2025-01-02
+CERT0312,387,,Azure Administrator,Google,2025-05-27
+CERT0313,390,,AWS Solutions Architect,Google,2025-04-25
+CERT0314,10,,Database Administrator,Google,2023-02-11
+CERT0315,303,,AWS Solutions Architect,Oracle,2024-04-07
+CERT0316,189,,Network Security Expert,IBM,2023-01-14
+CERT0317,435,,DevOps Engineer,Microsoft,2023-12-23
+CERT0318,555,,Database Administrator,ISACA,2023-11-10
+CERT0319,187,,Network Security Expert,Oracle,2024-10-24
+CERT0320,995,,AWS Solutions Architect,Microsoft,2024-01-16
+CERT0321,43,,Google Cloud Engineer,Oracle,2024-10-30
+CERT0322,705,,Google Cloud Engineer,Oracle,2024-09-09
+CERT0323,19,,AWS Solutions Architect,IBM,2022-12-07
+CERT0324,332,,Azure Administrator,CompTIA,2024-12-05
+CERT0325,,TRN956,Machine Learning Specialist,Oracle,2023-08-31
+CERT0326,902,,DevOps Engineer,Google,2024-06-30
+CERT0327,867,,Data Science Professional,AWS,2025-05-15
+CERT0328,659,,Machine Learning Specialist,Google,2025-02-14
+CERT0329,,TRN522,Data Science Professional,Microsoft,2023-11-21
+CERT0330,,TRN892,Azure Administrator,Microsoft,2023-01-03
+CERT0331,142,,Cybersecurity Analyst,CompTIA,2025-01-21
+CERT0332,,TRN975,Google Cloud Engineer,Google,2022-11-23
+CERT0333,,TRN638,Project Management Professional,Oracle,2025-06-26
+CERT0334,848,,Database Administrator,ISACA,2023-07-22
+CERT0335,518,,Machine Learning Specialist,Google,2025-07-24
+CERT0336,300,,AWS Solutions Architect,Google,2024-06-07
+CERT0337,548,,Azure Administrator,Microsoft,2024-05-08
+CERT0338,927,,Project Management Professional,IBM,2025-09-23
+CERT0339,486,,Data Science Professional,IBM,2023-07-08
+CERT0340,,TRN413,Database Administrator,Microsoft,2023-01-26
+CERT0341,,TRN316,Database Administrator,AWS,2025-11-02
+CERT0342,,TRN641,Database Administrator,ISACA,2024-07-08
+CERT0343,,TRN783,AWS Solutions Architect,Oracle,2025-06-10
+CERT0344,504,,Azure Administrator,CompTIA,2023-02-04
+CERT0345,278,,AWS Solutions Architect,Oracle,2023-10-26
+CERT0346,628,,Machine Learning Specialist,Oracle,2023-11-18
+CERT0347,188,,Database Administrator,Oracle,2023-05-27
+CERT0348,997,,Network Security Expert,CompTIA,2025-02-08
+CERT0349,587,,Project Management Professional,Microsoft,2024-06-24
+CERT0350,122,,Google Cloud Engineer,IBM,2023-12-03
+CERT0351,,TRN594,Data Science Professional,CompTIA,2023-10-12
+CERT0352,467,,Google Cloud Engineer,CompTIA,2024-11-25
+CERT0353,793,,Machine Learning Specialist,Google,2024-09-24
+CERT0354,537,,Network Security Expert,AWS,2023-01-06
+CERT0355,830,,Cybersecurity Analyst,IBM,2025-02-11
+CERT0356,,TRN745,Cybersecurity Analyst,ISACA,2023-01-22
+CERT0357,,TRN777,Google Cloud Engineer,IBM,2023-09-25
+CERT0358,,TRN273,Project Management Professional,IBM,2023-03-05
+CERT0359,820,,Network Security Expert,AWS,2023-09-21
+CERT0360,,TRN687,Project Management Professional,Oracle,2023-06-01
+CERT0361,,TRN574,Database Administrator,AWS,2025-09-21
+CERT0362,579,,Azure Administrator,Oracle,2025-06-19
+CERT0363,595,,Network Security Expert,Google,2023-01-17
+CERT0364,695,,AWS Solutions Architect,AWS,2025-01-27
+CERT0365,,TRN728,Data Science Professional,Google,2023-02-15
+CERT0366,,TRN837,Machine Learning Specialist,Microsoft,2024-07-24
+CERT0367,,TRN385,Google Cloud Engineer,Microsoft,2023-11-07
+CERT0368,,TRN763,Azure Administrator,CompTIA,2025-09-07
+CERT0369,728,,Machine Learning Specialist,CompTIA,2022-11-20
+CERT0370,506,,Google Cloud Engineer,AWS,2024-05-23
+CERT0371,,TRN969,Azure Administrator,ISACA,2024-08-24
+CERT0372,780,,AWS Solutions Architect,IBM,2024-11-15
+CERT0373,,TRN449,Network Security Expert,Oracle,2023-06-17
+CERT0374,38,,DevOps Engineer,AWS,2025-03-03
+CERT0375,885,,Data Science Professional,Google,2023-06-03
+CERT0376,474,,DevOps Engineer,AWS,2024-03-10
+CERT0377,330,,Data Science Professional,Microsoft,2024-03-25
+CERT0378,313,,Google Cloud Engineer,Oracle,2024-07-08
+CERT0379,,TRN464,Machine Learning Specialist,CompTIA,2024-12-18
+CERT0380,841,,Azure Administrator,IBM,2023-08-24
+CERT0381,,TRN993,DevOps Engineer,Google,2024-04-09
+CERT0382,832,,DevOps Engineer,Oracle,2024-02-02
+CERT0383,476,,Project Management Professional,AWS,2025-09-14
+CERT0384,456,,Cybersecurity Analyst,ISACA,2024-05-15
+CERT0385,278,,Machine Learning Specialist,Microsoft,2024-08-14
+CERT0386,972,,Project Management Professional,Oracle,2023-12-10
+CERT0387,,TRN632,Azure Administrator,Google,2024-05-30
+CERT0388,410,,Machine Learning Specialist,IBM,2024-08-01
+CERT0389,232,,Cybersecurity Analyst,IBM,2025-10-30
+CERT0390,615,,Cybersecurity Analyst,AWS,2024-11-17
+CERT0391,,TRN902,Cybersecurity Analyst,AWS,2023-06-21
+CERT0392,811,,Machine Learning Specialist,CompTIA,2023-05-08
+CERT0393,,TRN277,Network Security Expert,Oracle,2024-01-05
+CERT0394,39,,Google Cloud Engineer,Oracle,2023-01-13
+CERT0395,,TRN816,Google Cloud Engineer,Google,2025-11-04
+CERT0396,946,,Network Security Expert,CompTIA,2023-11-24
+CERT0397,364,,DevOps Engineer,ISACA,2022-12-09
+CERT0398,696,,Project Management Professional,AWS,2024-11-24
+CERT0399,624,,Data Science Professional,ISACA,2023-12-15
+CERT0400,,TRN554,Database Administrator,IBM,2024-12-02
+CERT0401,,TRN694,Machine Learning Specialist,AWS,2024-11-06
+CERT0402,521,,Database Administrator,Microsoft,2025-02-13
+CERT0403,908,,AWS Solutions Architect,Google,2022-12-31
+CERT0404,,TRN347,AWS Solutions Architect,Microsoft,2024-03-09
+CERT0405,732,,Data Science Professional,IBM,2023-02-12
+CERT0406,810,,Machine Learning Specialist,IBM,2023-10-07
+CERT0407,726,,Database Administrator,AWS,2023-04-09
+CERT0408,24,,Cybersecurity Analyst,CompTIA,2023-01-01
+CERT0409,,TRN864,Google Cloud Engineer,AWS,2024-02-09
+CERT0410,572,,Azure Administrator,CompTIA,2023-05-02
+CERT0411,,TRN719,AWS Solutions Architect,CompTIA,2024-06-07
+CERT0412,812,,Machine Learning Specialist,CompTIA,2025-01-26
+CERT0413,502,,Network Security Expert,Microsoft,2025-10-13
+CERT0414,863,,Data Science Professional,Google,2025-06-13
+CERT0415,635,,Cybersecurity Analyst,IBM,2023-05-02
+CERT0416,,TRN209,Network Security Expert,AWS,2024-05-25
+CERT0417,933,,DevOps Engineer,Oracle,2024-08-15
+CERT0418,731,,Network Security Expert,ISACA,2024-02-15
+CERT0419,746,,Machine Learning Specialist,Google,2024-10-26
+CERT0420,42,,AWS Solutions Architect,Google,2024-04-17
+CERT0421,945,,Project Management Professional,ISACA,2025-06-21
+CERT0422,917,,Azure Administrator,Oracle,2024-04-20
+CERT0423,600,,DevOps Engineer,Google,2023-03-10
+CERT0424,,TRN696,Project Management Professional,Microsoft,2025-07-07
+CERT0425,,TRN936,Cybersecurity Analyst,AWS,2023-09-29
+CERT0426,852,,Machine Learning Specialist,ISACA,2025-04-24
+CERT0427,158,,Database Administrator,IBM,2023-07-02
+CERT0428,159,,Data Science Professional,Oracle,2023-08-22
+CERT0429,865,,Data Science Professional,Google,2024-09-23
+CERT0430,795,,DevOps Engineer,IBM,2025-10-11
+CERT0431,,TRN488,AWS Solutions Architect,Oracle,2024-11-16
+CERT0432,800,,Machine Learning Specialist,AWS,2023-11-19
+CERT0433,,TRN688,Machine Learning Specialist,Google,2023-08-13
+CERT0434,,TRN333,Azure Administrator,AWS,2024-05-26
+CERT0435,,TRN543,Data Science Professional,Microsoft,2023-01-04
+CERT0436,262,,AWS Solutions Architect,IBM,2025-08-09
+CERT0437,933,,DevOps Engineer,Google,2024-10-01
+CERT0438,173,,Azure Administrator,IBM,2024-12-24
+CERT0439,483,,Network Security Expert,Oracle,2022-11-10
+CERT0440,,TRN828,Project Management Professional,CompTIA,2025-10-11
+CERT0441,628,,Machine Learning Specialist,Microsoft,2025-08-15
+CERT0442,,TRN389,Project Management Professional,ISACA,2024-04-16
+CERT0443,,TRN291,Data Science Professional,AWS,2023-01-18
+CERT0444,734,,Database Administrator,AWS,2025-01-16
+CERT0445,272,,Database Administrator,AWS,2023-12-17
+CERT0446,733,,Machine Learning Specialist,ISACA,2023-09-24
+CERT0447,950,,Google Cloud Engineer,IBM,2023-08-01
+CERT0448,139,,Network Security Expert,Oracle,2024-11-17
+CERT0449,,TRN542,Data Science Professional,Google,2023-04-29
+CERT0450,338,,Project Management Professional,AWS,2025-06-30
+CERT0451,315,,Data Science Professional,Microsoft,2025-09-29
+CERT0452,760,,Cybersecurity Analyst,ISACA,2023-08-12
+CERT0453,464,,Google Cloud Engineer,Microsoft,2024-05-14
+CERT0454,528,,DevOps Engineer,AWS,2023-08-23
+CERT0455,81,,Project Management Professional,AWS,2024-12-29
+CERT0456,,TRN313,Machine Learning Specialist,ISACA,2024-03-16
+CERT0457,340,,Machine Learning Specialist,Microsoft,2025-08-26
+CERT0458,,TRN228,Google Cloud Engineer,IBM,2025-09-12
+CERT0459,992,,Google Cloud Engineer,Google,2024-12-19
+CERT0460,,TRN991,Database Administrator,ISACA,2024-02-23
+CERT0461,,TRN356,Google Cloud Engineer,ISACA,2024-04-30
+CERT0462,788,,Database Administrator,Oracle,2022-11-30
+CERT0463,734,,Google Cloud Engineer,Google,2024-12-22
+CERT0464,871,,Cybersecurity Analyst,Microsoft,2023-10-06
+CERT0465,,TRN694,Project Management Professional,CompTIA,2023-05-08
+CERT0466,407,,Project Management Professional,Google,2024-12-08
+CERT0467,766,,Network Security Expert,ISACA,2024-01-07
+CERT0468,540,,Data Science Professional,AWS,2022-12-16
+CERT0469,841,,Azure Administrator,CompTIA,2025-05-08
+CERT0470,473,,Cybersecurity Analyst,ISACA,2025-05-06
+CERT0471,712,,Data Science Professional,Oracle,2024-08-16
+CERT0472,185,,Project Management Professional,Oracle,2024-02-20
+CERT0473,,TRN404,Cybersecurity Analyst,ISACA,2024-10-05
+CERT0474,962,,Machine Learning Specialist,AWS,2025-06-09
+CERT0475,202,,Google Cloud Engineer,Oracle,2023-08-10
+CERT0476,613,,Google Cloud Engineer,CompTIA,2024-03-15
+CERT0477,870,,Machine Learning Specialist,IBM,2025-10-13
+CERT0478,,TRN447,Data Science Professional,AWS,2023-02-21
+CERT0479,993,,Google Cloud Engineer,CompTIA,2024-06-01
+CERT0480,599,,Project Management Professional,Microsoft,2025-03-09
+CERT0481,815,,Network Security Expert,CompTIA,2023-03-13
+CERT0482,624,,AWS Solutions Architect,Microsoft,2024-08-21
+CERT0483,677,,AWS Solutions Architect,Oracle,2025-03-21
+CERT0484,142,,Project Management Professional,Google,2024-02-09
+CERT0485,447,,DevOps Engineer,CompTIA,2023-10-26
+CERT0486,982,,Azure Administrator,AWS,2023-05-24
+CERT0487,709,,Cybersecurity Analyst,Microsoft,2023-06-15
+CERT0488,142,,Project Management Professional,Google,2025-07-14
+CERT0489,78,,AWS Solutions Architect,IBM,2024-11-03
+CERT0490,925,,Azure Administrator,Oracle,2025-03-31
+CERT0491,7,,AWS Solutions Architect,Oracle,2023-11-05
+CERT0492,382,,Google Cloud Engineer,CompTIA,2023-09-17
+CERT0493,542,,AWS Solutions Architect,Google,2023-03-02
+CERT0494,,TRN525,DevOps Engineer,AWS,2023-12-23
+CERT0495,,TRN456,Network Security Expert,Oracle,2024-01-07
+CERT0496,413,,AWS Solutions Architect,AWS,2025-04-18
+CERT0497,821,,Network Security Expert,AWS,2022-12-20
+CERT0498,,TRN922,Cybersecurity Analyst,Oracle,2024-06-17
+CERT0499,88,,Machine Learning Specialist,CompTIA,2023-12-19
+CERT0500,,TRN377,Azure Administrator,AWS,2022-12-22
